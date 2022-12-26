@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\GitHub\ezlo-thermostat\docs\Client Original Design\Radar Sensor PCB revA Kicad\radar.kicad_sch</source>
+    <date>12/26/2022 2:10:08 PM</date>
+    <tool>Eeschema (6.99.0-4537-g21fed9fc8c)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Radar sensor card</title>
+        <company>Ezlo</company>
+        <rev>A</rev>
+        <date>2022-12-19</date>
+        <source>radar.kicad_sch</source>
+        <comment number="1" value="All resistors are 1% unless otherwise mentioned."/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.01uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="0.01u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;0.01u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b6ac0fe-6091-4f0b-a5b3-567a2b33422c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="1u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;1u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b9cb700-7f90-48a2-96d0-53aaa1afcbce</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.47uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="0.47u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;0.47u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92fa4537-518f-4945-8535-be32e03fa810</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="0.1u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;0.1u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f2274c8-04b2-41a8-9cda-b82b4695bfcf</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="1u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;1u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f09619a6-8c2b-4879-ab5d-3bc761681c7a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="1u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;1u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b915297-259a-4c45-9e73-257825e049b6</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="1u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;1u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a782cfd2-7c23-4511-bfa5-f1cb20567e47</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="1u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;1u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27a4265a-8677-4f57-8b32-7b1c400aff97</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="1u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;1u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d5467e2-d278-400f-a679-81ae5d737a5d</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="1u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;1u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35f6a64c-2a94-41bf-b932-de3cfcdb8bb0</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C86295</field>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="22u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C86295"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;22u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14e0ccf6-dd8d-4969-8b64-8e002eddd383</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="1u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;1u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e08c3f7a-0025-455e-9b83-0e5e35c031d7</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="10u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;10u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3773f586-cd9f-4295-9445-ac9f08770661</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C86295</field>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="22u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C86295"/>
+      <property name="Voltage" value="10V"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;22u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4cd8de3-365e-48ad-b1be-fb0c83bc64f8</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="10u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;10u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afe5aa11-3a3a-4ac4-9371-ea86e569ecb0</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="10u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;10u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49488134-715f-4a48-86f6-d5ef7662b7cc</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Sim.Device">SPICE</field>
+        <field name="Sim.Params">type="" model="10u" lib=""</field>
+        <field name="Sim.Pins">1=1 2=2</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sim.Device" value="SPICE"/>
+      <property name="Sim.Params" value="type=&quot;&quot; model=&quot;10u&quot; lib=&quot;&quot;"/>
+      <property name="Sim.Pins" value="1=1 2=2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f91916c6-b5e3-4f6d-b564-cbc73beb1617</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>BLM15PD121SN1B</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <datasheet>https://ro.mouser.com/datasheet/2/281/ENFA0018-1915754.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C76891</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="LCSC" value="C76891"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>963115b7-6383-4913-9854-82cf51f5b2d8</tstamps>
+    </comp>
+    <comp ref="FB2">
+      <value>BLM15PD121SN1B</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <datasheet>https://ro.mouser.com/datasheet/2/281/ENFA0018-1915754.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C76891</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="LCSC" value="C76891"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67719437-fb9f-4ae1-8cce-e5b89c74e6e3</tstamps>
+    </comp>
+    <comp ref="FB3">
+      <value>BLM15PD121SN1B</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <datasheet>https://ro.mouser.com/datasheet/2/281/ENFA0018-1915754.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C76891</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="LCSC" value="C76891"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb8fbf30-1f8a-47cb-9601-561c7ae8aaa7</tstamps>
+    </comp>
+    <comp ref="FB4">
+      <value>BLM15PD121SN1B</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <datasheet>https://ro.mouser.com/datasheet/2/281/ENFA0018-1915754.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C76891</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="LCSC" value="C76891"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12896cdc-a357-42ea-a558-e710ed7a1aac</tstamps>
+    </comp>
+    <comp ref="FB5">
+      <value>BLM15PD121SN1B</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <datasheet>https://ro.mouser.com/datasheet/2/281/ENFA0018-1915754.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C76891</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="LCSC" value="C76891"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5718e2c1-bfa4-4983-ad9a-fa8889354c6d</tstamps>
+    </comp>
+    <comp ref="FB6">
+      <value>BLM15PD121SN1B</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <datasheet>https://ro.mouser.com/datasheet/2/281/ENFA0018-1915754.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C76891</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="LCSC" value="C76891"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efeb371f-05fc-4e2d-82a6-f9dc723b6397</tstamps>
+    </comp>
+    <comp ref="FB7">
+      <value>BLM15PD121SN1B</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <datasheet>https://ro.mouser.com/datasheet/2/281/ENFA0018-1915754.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C76891</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="LCSC" value="C76891"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf33aff2-f5ca-4374-baeb-07e16c38fec7</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bbcf7bb-c8b0-4a65-9076-9e8a61798966</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c2b8885-2438-4167-99ad-cb65803990c2</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x10</value>
+      <footprint>Ezlo:AFC01-S10FCC-00_1x10_P0.5mm_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811021329_JUSHUO-AFC01-S10FCC-00_C262266.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C262266</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x10" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C262266"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5dc843e7-3494-45b7-beae-76bbc50fa527</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>758055b0-2033-4f68-beb5-3278940f61c2</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>BGT60TR13C</value>
+      <footprint>Voltlog:PG-VF2BGA40-1</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-BGT60TR13CDataSheet-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c7d718a49017d94bac88e5d43</datasheet>
+      <libsource lib="voltlog" part="BGT60TR13C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1f28366-8b5a-41aa-9e3e-285cd2ef08a6</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>80MHz</value>
+      <footprint>Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm</footprint>
+      <datasheet>https://ele.kyocera.com/assets/products/crystal-device/clock_k_e.pdf</datasheet>
+      <fields>
+        <field name="PN">KC2016K80.0000C1GE00</field>
+      </fields>
+      <libsource lib="Oscillator" part="SG-5032CBN" description="CMOS Clock Oscillator 80 to 170 MHz"/>
+      <property name="PN" value="KC2016K80.0000C1GE00"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="radar.kicad_sch"/>
+      <property name="ki_description" value="CMOS Clock Oscillator 80 to 170 MHz"/>
+      <property name="ki_keywords" value="Crystal Clock Oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f038d0e2-80c7-4f1d-b9a0-f7d442fdf0a1</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x10">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead">
+      <description>Ferrite bead</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="Fiducial">
+      <description>Fiducial Marker</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Fiducial*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">Fiducial</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Oscillator" part="SG-5032CBN">
+      <description>CMOS Clock Oscillator 80 to 170 MHz</description>
+      <docs>https://support.epson.biz/td/api/doc_check.php?dl=brief_SG5032CBN&amp;lang=en</docs>
+      <footprints>
+        <fp>Oscillator*SMD*SeikoEpson*SG8002LB*5.0x3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">SG-5032CBN</field>
+        <field name="Footprint">Oscillator:Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm</field>
+        <field name="Datasheet">https://support.epson.biz/td/api/doc_check.php?dl=brief_SG5032CBN&amp;lang=en</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{ST}" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="voltlog" part="BGT60TR13C">
+      <docs>https://www.infineon.com/dgdl/Infineon-BGT60TR13CDataSheet-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c7d718a49017d94bac88e5d43</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BGT60TR13C</field>
+        <field name="Footprint">Voltlog:PG-VF2BGA40-1</field>
+        <field name="Datasheet">https://www.infineon.com/dgdl/Infineon-BGT60TR13CDataSheet-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c7d718a49017d94bac88e5d43</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="VSSD" type="power_in"/>
+        <pin num="A2" name="VSSD" type="power_in"/>
+        <pin num="A3" name="VSSRF" type="power_in"/>
+        <pin num="A4" name="VSSRF" type="power_in"/>
+        <pin num="A5" name="VSSRF" type="power_in"/>
+        <pin num="A6" name="VSSRF" type="power_in"/>
+        <pin num="A7" name="VSSRF" type="power_in"/>
+        <pin num="A8" name="VSSRF" type="power_in"/>
+        <pin num="A9" name="VSSRF" type="power_in"/>
+        <pin num="B1" name="CLK" type="input"/>
+        <pin num="B3" name="VSSRF" type="power_in"/>
+        <pin num="B4" name="VSSRF" type="power_in"/>
+        <pin num="B8" name="VSSRF" type="power_in"/>
+        <pin num="B9" name="VSSRF" type="power_in"/>
+        <pin num="C1" name="IRQ" type="output"/>
+        <pin num="C9" name="VSSRF" type="power_in"/>
+        <pin num="D1" name="DI" type="input"/>
+        <pin num="D9" name="VSSRF" type="power_in"/>
+        <pin num="E1" name="DO" type="output"/>
+        <pin num="E9" name="VSSRF" type="power_in"/>
+        <pin num="F1" name="DIO3" type="bidirectional"/>
+        <pin num="F9" name="VDDRF" type="power_in"/>
+        <pin num="G1" name="~{CS}" type="input"/>
+        <pin num="G9" name="VDDRF" type="power_in"/>
+        <pin num="H1" name="VDDD" type="power_in"/>
+        <pin num="H9" name="VSSRF" type="power_in"/>
+        <pin num="J1" name="VDDA" type="power_in"/>
+        <pin num="J9" name="VSSRF" type="power_in"/>
+        <pin num="K1" name="VSSA" type="power_in"/>
+        <pin num="K9" name="VSSRF" type="power_in"/>
+        <pin num="L1" name="VAREF" type="power_out"/>
+        <pin num="L9" name="VSSRF" type="power_in"/>
+        <pin num="M1" name="VDDRF" type="power_in"/>
+        <pin num="M2" name="OSC_CLK" type="input"/>
+        <pin num="M3" name="VDDLF" type="power_in"/>
+        <pin num="M4" name="VDDPLL" type="power_in"/>
+        <pin num="M5" name="DIV_TEST" type="output"/>
+        <pin num="M6" name="VDDVCO" type="power_in"/>
+        <pin num="M7" name="VSSRF" type="power_in"/>
+        <pin num="M9" name="VSSRF" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="voltlog" part="EZLO_LOGO">
+      <fields>
+        <field name="Reference">V</field>
+        <field name="Value">EZLO_LOGO</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.99\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.99\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.99\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Oscillator">
+      <uri>C:\Program Files\KiCad\6.99\share\kicad\symbols\/Oscillator.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/BGT_CLK">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="B1" pinfunction="CLK" pintype="input"/>
+    </net>
+    <net code="2" name="/BGT_CS">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="G1" pinfunction="~{CS}" pintype="input"/>
+    </net>
+    <net code="3" name="/BGT_IRQ">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="C1" pinfunction="IRQ" pintype="output"/>
+    </net>
+    <net code="4" name="/BGT_MISO">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="E1" pinfunction="DO" pintype="output"/>
+    </net>
+    <net code="5" name="/BGT_MOSI">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="D1" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="6" name="/BGT_RST">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="F1" pinfunction="DIO3" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/OSC_80M">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="M2" pinfunction="OSC_CLK" pintype="input"/>
+    </net>
+    <net code="8" name="/OSC_OUT">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="X1" pin="3" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="9" name="/VAREF">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="L1" pinfunction="VAREF" pintype="power_out"/>
+    </net>
+    <net code="10" name="/VDD_A">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="FB3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="J1" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="11" name="/VDD_D">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="FB2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="H1" pinfunction="VDDD" pintype="power_in"/>
+    </net>
+    <net code="12" name="/VDD_LF">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="FB4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="M3" pinfunction="VDDLF" pintype="power_in"/>
+    </net>
+    <net code="13" name="/VDD_OSC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="X1" pin="4" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="14" name="/VDD_PLL">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="FB6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="M4" pinfunction="VDDPLL" pintype="power_in"/>
+    </net>
+    <net code="15" name="/VDD_RF">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="FB7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="F9" pinfunction="VDDRF" pintype="power_in"/>
+      <node ref="U1" pin="G9" pinfunction="VDDRF" pintype="power_in"/>
+      <node ref="U1" pin="M1" pinfunction="VDDRF" pintype="power_in"/>
+    </net>
+    <net code="16" name="/VDD_VCO">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="FB5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="M6" pinfunction="VDDVCO" pintype="power_in"/>
+    </net>
+    <net code="17" name="1V8_SENSOR">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="FB2" pin="2" pintype="passive"/>
+      <node ref="FB3" pin="2" pintype="passive"/>
+      <node ref="FB5" pin="2" pintype="passive"/>
+      <node ref="FB6" pin="2" pintype="passive"/>
+      <node ref="FB7" pin="2" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="18" name="3V3_SENSOR">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="FB4" pin="2" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="19" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="A1" pinfunction="VSSD" pintype="power_in"/>
+      <node ref="U1" pin="A2" pinfunction="VSSD" pintype="power_in"/>
+      <node ref="U1" pin="A3" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="A4" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="A5" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="A6" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="A7" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="A8" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="A9" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="B3" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="B4" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="B8" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="B9" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="C9" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="D9" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="E9" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="H9" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="J9" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="K1" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="U1" pin="K9" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="L9" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="M7" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="U1" pin="M9" pinfunction="VSSRF" pintype="power_in"/>
+      <node ref="X1" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="20" name="unconnected-(U1-DIV_TEST)">
+      <node ref="U1" pin="M5" pinfunction="DIV_TEST" pintype="output+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(X1-~{ST})">
+      <node ref="X1" pin="1" pinfunction="~{ST}" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

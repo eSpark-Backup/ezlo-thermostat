@@ -1,0 +1,13 @@
+#,Reference,Qty,Value,Footprint,Parts Status
+1,C1,1,0.01uF,Capacitor_SMD:C_0402_1005Metric,Added
+2,"C2, C5, C6, C7, C8, C9, C10, C12",8,1uF,Capacitor_SMD:C_0402_1005Metric,Added
+3,C3,1,0.47uF,Capacitor_SMD:C_0402_1005Metric,Added
+4,C4,1,0.1uF,Capacitor_SMD:C_0402_1005Metric,Added
+5,"C11, C14",2,22uF,Capacitor_SMD:C_0603_1608Metric,Added
+6,"C13, C15, C16, C17",4,10uF,Capacitor_SMD:C_0402_1005Metric,Added
+7,"FB1, FB2, FB3, FB4, FB5, FB6, FB7",7,BLM15PD121SN1B,Inductor_SMD:L_0402_1005Metric,
+8,"H1, H2",2,MountingHole,MountingHole:MountingHole_2mm,
+9,J1,1,Conn_01x10,Ezlo:AFC01-S10FCC-00_1x10_P0.5mm_Horizontal,Added
+10,R1,1,150R,Resistor_SMD:R_0402_1005Metric,Added
+11,U1,1,BGT60TR13C,Voltlog:PG-VF2BGA40-1,
+12,X1,1,80MHz,Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm,Added
