@@ -2232,7 +2232,7 @@
   (dimension (type aligned) (layer "F.SilkS") (tstamp 0df46855-f389-491e-b3ce-d1c8e2ada2b4)
     (pts (xy 101.75 74) (xy 130.75 74))
     (height -10.5)
-    (gr_text "29.0000 mm" (at 116.25 62.35) (layer "F.SilkS") (tstamp 36de3129-01e8-4824-83d2-5d0a30f3f72a)
+    (gr_text "29.0000 mm" (at 116.25 62.35) (layer "F.SilkS") (tstamp 0df46855-f389-491e-b3ce-d1c8e2ada2b4)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
