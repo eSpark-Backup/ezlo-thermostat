@@ -132,7 +132,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DEGERFRN
 
 [Document6]
-DocumentPath=Sheet5.SchDoc
+DocumentPath=Level-Shifter-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -149,7 +149,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VVIQEBLM
 
 [Document7]
-DocumentPath=Sheet6.SchDoc
+DocumentPath=ESP32-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -164,6 +164,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKSLDWKI
+
+[Document8]
+DocumentPath=Miscellaneous-Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PSHJKFCY
 
 [Configuration1]
 Name=Sources

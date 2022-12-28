@@ -1,6 +1,7 @@
-Record=TopLevelDocument|FileName=Output-Sheet.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Output-Sheet.SchDoc|FileName=Power-Sheet.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Output-Sheet.SchDoc|FileName=Relay-Sheet.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Output-Sheet.SchDoc|FileName=Sensor-Sheet.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Output-Sheet.SchDoc|FileName=Sheet5.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Output-Sheet.SchDoc|FileName=Sheet6.SchDoc|SheetNumber=6
+Record=TopLevelDocument|FileName=ESP32-Sheet.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ESP32-Sheet.SchDoc|FileName=Level-Shifter-Sheet.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ESP32-Sheet.SchDoc|FileName=Miscellaneous-Sheet.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ESP32-Sheet.SchDoc|FileName=Output-Sheet.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ESP32-Sheet.SchDoc|FileName=Power-Sheet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ESP32-Sheet.SchDoc|FileName=Relay-Sheet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ESP32-Sheet.SchDoc|FileName=Sensor-Sheet.SchDoc|SheetNumber=2
