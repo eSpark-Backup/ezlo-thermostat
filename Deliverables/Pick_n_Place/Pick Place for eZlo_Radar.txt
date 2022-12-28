@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Users\XPENDER\Documents\GitHub\ezlo-thermostat\Design Files\Ezlo-Radar-Sensor\Project Outputs for Ezlo-Radar-Sensor\Pick Place for eZlo_Radar.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/12/22
+Time:       02:10
+Revision:   dae2a6626ea2d60e4e6ca90f42323c52bae47fef
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+C17        TopLayer    17,3990mm    2,7178mm     270      17,3990mm 2,7178mm  17,3990mm 3,1877mm  
+C13        TopLayer    12,6746mm    2,6416mm     270      12,6746mm 2,6416mm  12,6746mm 3,1115mm  
+C10        TopLayer    15,3162mm    10,1727mm    90       15,3162mm 10,1727mm 15,3162mm 9,7028mm  
+C9         TopLayer    16,4084mm    10,1727mm    90       16,4084mm 10,1727mm 16,4084mm 9,7028mm  
+C8         TopLayer    9,7028mm     2,2606mm     270      9,7028mm  2,2606mm  9,7028mm  2,7305mm  
+C6         TopLayer    10,8458mm    5,4610mm     180      10,8458mm 5,4610mm  11,3157mm 5,4610mm  
+C4         TopLayer    10,8458mm    6,5278mm     180      10,8458mm 6,5278mm  11,3157mm 6,5278mm  
+C3         TopLayer    5,1816mm     5,6642mm     180      5,1816mm  5,6642mm  5,6515mm  5,6642mm  
+C2         TopLayer    5,1816mm     6,6548mm     180      5,1816mm  6,6548mm  5,6515mm  6,6548mm  
+C1         TopLayer    10,8458mm    7,5438mm     180      10,8458mm 7,5438mm  11,3157mm 7,5438mm  
+X1         TopLayer    5,5880mm     3,9370mm     0        5,5880mm  3,9370mm  4,6880mm  3,3370mm  
+U1         BottomLayer 16,1544mm    6,3754mm     180      16,1544mm 6,3754mm  18,9044mm 4,3754mm  
+R1         TopLayer    8,3312mm     2,2606mm     90       8,3312mm  2,2606mm  8,3312mm  1,7907mm  
+J1         TopLayer    24,1554mm    5,0800mm     0        24,1554mm 5,0800mm  21,9054mm 6,4200mm  
+FB7        TopLayer    16,2306mm    2,7178mm     270      16,2306mm 2,7178mm  16,2306mm 3,0678mm  
+FB6        TopLayer    14,9606mm    2,7178mm     270      14,9606mm 2,7178mm  14,9606mm 3,0678mm  
+FB5        TopLayer    11,0744mm    2,3114mm     270      11,0744mm 2,3114mm  11,0744mm 2,6614mm  
+FB4        TopLayer    10,8204mm    4,2926mm     180      10,8204mm 4,2926mm  11,1704mm 4,2926mm  
+FB3        TopLayer    8,8900mm     8,6106mm     0        8,8900mm  8,6106mm  8,5400mm  8,6106mm  
+FB2        TopLayer    5,1816mm     7,7216mm     180      5,1816mm  7,7216mm  5,5316mm  7,7216mm  
+FB1        TopLayer    10,8204mm    8,6106mm     180      10,8204mm 8,6106mm  11,1704mm 8,6106mm  
+C16        TopLayer    13,7414mm    2,6162mm     270      13,7414mm 2,6162mm  13,7414mm 3,0861mm  
+C15        TopLayer    16,9164mm    1,2446mm     0        16,9164mm 1,2446mm  16,4465mm 1,2446mm  
+C14        TopLayer    15,0622mm    1,2446mm     180      15,0622mm 1,2446mm  15,5321mm 1,2446mm  
+C12        TopLayer    10,5918mm    0,8636mm     180      10,5918mm 0,8636mm  11,0617mm 0,8636mm  
+C11        TopLayer    13,3604mm    9,8806mm     180      13,3604mm 9,8806mm  14,1224mm 9,8806mm  
+C7         TopLayer    9,1694mm     5,0292mm     90       9,1694mm  5,0292mm  9,1694mm  4,2672mm  
+C5         TopLayer    8,3566mm     7,2898mm     0        8,3566mm  7,2898mm  7,5946mm  7,2898mm  
