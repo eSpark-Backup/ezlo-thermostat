@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\XPENDER\Documents\GitHub\ezlo-thermostat\Design Files\Ezlo-Radar-Sensor\Project Outputs for Ezlo-Radar-Sensor\Pick Place for eZlo_Radar.txt
+E:\ezlo-thermostat\Design Files\Ezlo-Radar-Sensor\Project Outputs for Ezlo-Radar-Sensor\Pick Place for eZlo_Radar.txt
 
 ========================================================================================================================
 File Design Information:
 
 Date:       29/12/22
-Time:       02:10
-Revision:   dae2a6626ea2d60e4e6ca90f42323c52bae47fef
+Time:       11:44
+Revision:   70b60455b803eb152152fbbb49ac7c8250ff99a4
 Variant:    No variations
 Units used: mm
 
