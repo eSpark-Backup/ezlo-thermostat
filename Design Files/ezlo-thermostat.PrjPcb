@@ -23,7 +23,7 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
-AutoSheetNumbering=1
+AutoSheetNumbering=0
 AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
@@ -47,6 +47,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Top-Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LUTLNQNW
+
+[Document2]
 DocumentPath=Power-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -63,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QTQJOGUA
 
-[Document2]
+[Document3]
 DocumentPath=Sensor-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -80,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFMSLRGH
 
-[Document3]
+[Document4]
 DocumentPath=Output-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,14 +114,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFUOTNMW
 
-[Document4]
-DocumentPath=Thermostat-PCB.PcbDoc
+[Document5]
+DocumentPath=Output-Connection-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -112,9 +129,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GJMEDGCU
+DocumentUniqueId=EIXKRXSD
 
-[Document5]
+[Document6]
 DocumentPath=Relay-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEGERFRN
 
-[Document6]
+[Document7]
 DocumentPath=Level-Shifter-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVIQEBLM
 
-[Document7]
+[Document8]
 DocumentPath=ESP32-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKSLDWKI
 
-[Document8]
+[Document9]
 DocumentPath=Miscellaneous-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -181,6 +198,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSHJKFCY
+
+[Document10]
+DocumentPath=Thermostat-PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GJMEDGCU
 
 [Configuration1]
 Name=Sources
@@ -1081,7 +1115,7 @@ L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
-SortOrder=3
+SortOrder=1
 SortLocation=0
 ReplaceSubparts=0
 MatchParameter1=Comment
