@@ -58,7 +58,7 @@
       (dielectric_constraints no)
     )
     (pad_to_mask_clearance 0)
-    (grid_origin 92.04 71.74)
+    (grid_origin 102.02 102.24)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (disableapertmacros false)
@@ -15494,7 +15494,7 @@
   (dimension (type aligned) (layer "Edge.Cuts") (tstamp 0c894ae0-8f19-4e0b-8fa8-ff4dbf21ca48)
     (pts (xy 150.47 50.76) (xy 190.7 50.65))
     (height -3.549221)
-    (gr_text "40.2302 mm" (at 170.572151 46.005796 0.1566621934) (layer "Edge.Cuts") (tstamp e687016e-f5f1-4fc7-b07d-1f254702dae1)
+    (gr_text "40.2302 mm" (at 170.572151 46.005796 0.1566621934) (layer "Edge.Cuts") (tstamp 0c894ae0-8f19-4e0b-8fa8-ff4dbf21ca48)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
@@ -15503,7 +15503,7 @@
   (dimension (type aligned) (layer "Edge.Cuts") (tstamp 78e9d9fa-9f74-4bf9-88d2-241624101aec)
     (pts (xy 150.47 50.75) (xy 150.45 49.01))
     (height 1.497027)
-    (gr_text "1.7401 mm" (at 153.106852 49.849576 -89.34145682) (layer "Edge.Cuts") (tstamp c9033830-e56e-4561-b37a-7a3f4708d4e0)
+    (gr_text "1.7401 mm" (at 153.106852 49.849576 -89.34145682) (layer "Edge.Cuts") (tstamp 78e9d9fa-9f74-4bf9-88d2-241624101aec)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
@@ -18101,11 +18101,11 @@
   (segment (start 179.23 63.75) (end 180.785 63.75) (width 0.4) (layer "F.Cu") (net 182) (tstamp effea60e-e791-4038-bb42-7de4fc3baa97))
   (segment (start 185.88 65.8) (end 185.88 64.4) (width 0.2) (layer "F.Cu") (net 182) (tstamp f2e53e89-ef39-48de-b286-15ea033cb38a))
 
-  (zone (net 179) (net_name "+5V") (layers "F.Cu" "In2.Cu" "B.Cu") (tstamp 0bc20925-258a-44d5-9a61-aac1842eee28) (name "+5V") (hatch edge 0.508)
+  (zone locked (net 179) (net_name "+5V") (layers "F.Cu" "In2.Cu" "B.Cu") (tstamp 0bc20925-258a-44d5-9a61-aac1842eee28) (name "+5V") (hatch edge 0.508)
     (priority 1)
-    (connect_pads yes (clearance 0.15))
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 182.5 68.7)
@@ -18246,11 +18246,11 @@
       )
     )
   )
-  (zone (net 10) (net_name "+3V3") (layers "F.Cu" "In2.Cu") (tstamp 18aa41b1-741b-4dc5-a1e1-914033dc313f) (name "3V3") (hatch edge 0.508)
+  (zone locked (net 10) (net_name "+3V3") (layers "F.Cu" "In2.Cu") (tstamp 18aa41b1-741b-4dc5-a1e1-914033dc313f) (name "3V3") (hatch edge 0.508)
     (priority 1)
-    (connect_pads yes (clearance 0))
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 188 110.5)
@@ -18335,10 +18335,10 @@
       )
     )
   )
-  (zone (net 2) (net_name "GND") (layer "F.Cu") (tstamp 34a93b9d-79ec-490a-b29f-4dc9068465c1) (name "GND") (hatch edge 0.508)
-    (connect_pads yes (clearance 0.15))
+  (zone locked (net 2) (net_name "GND") (layer "F.Cu") (tstamp 34a93b9d-79ec-490a-b29f-4dc9068465c1) (name "GND") (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 125.35 68.35)
@@ -18375,11 +18375,11 @@
       )
     )
   )
-  (zone (net 10) (net_name "+3V3") (layer "F.Cu") (tstamp 4db55f8d-c481-4f56-8bb3-6e1f254aaa4e) (name "3V3") (hatch none 0.508)
+  (zone locked (net 10) (net_name "+3V3") (layer "F.Cu") (tstamp 4db55f8d-c481-4f56-8bb3-6e1f254aaa4e) (name "3V3") (hatch edge 0.508)
     (priority 1)
-    (connect_pads yes (clearance 0.15))
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 131.35 52.05)
@@ -18457,11 +18457,11 @@
       )
     )
   )
-  (zone (net 38) (net_name "/misc/5V_TABLET") (layer "F.Cu") (tstamp 528a404e-5102-456f-ab78-72cd65754b4b) (name "5v_tablet") (hatch edge 0.508)
+  (zone locked (net 38) (net_name "/misc/5V_TABLET") (layer "F.Cu") (tstamp 528a404e-5102-456f-ab78-72cd65754b4b) (name "5v_tablet") (hatch edge 0.508)
     (priority 1)
-    (connect_pads yes (clearance 0.15))
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 98.15 64.35)
@@ -18516,11 +18516,11 @@
       )
     )
   )
-  (zone (net 10) (net_name "+3V3") (layer "F.Cu") (tstamp 5e443f4e-eb7b-458c-8aca-b5ed56aba1e8) (name "+3V3") (hatch edge 0.508)
+  (zone locked (net 10) (net_name "+3V3") (layer "F.Cu") (tstamp 5e443f4e-eb7b-458c-8aca-b5ed56aba1e8) (name "+3V3") (hatch edge 0.508)
     (priority 1)
-    (connect_pads yes (clearance 0.15))
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 120.05 68.35)
@@ -58944,10 +58944,10 @@
       )
     )
   )
-  (zone (net 2) (net_name "GND") (layer "F.Cu") (tstamp 80be32ec-1dd3-4686-9b54-a9ad878f44a4) (name "gnd") (hatch edge 0.508)
-    (connect_pads yes (clearance 0.15))
+  (zone locked (net 2) (net_name "GND") (layer "F.Cu") (tstamp 80be32ec-1dd3-4686-9b54-a9ad878f44a4) (name "gnd") (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 100.5 90.1)
@@ -58976,11 +58976,11 @@
       )
     )
   )
-  (zone (net 179) (net_name "+5V") (layers F&B.Cu) (tstamp 80e13483-85a5-4364-9687-4fb5d8328e29) (name "VIN") (hatch edge 0.508)
+  (zone locked (net 179) (net_name "+5V") (layers F&B.Cu) (tstamp 80e13483-85a5-4364-9687-4fb5d8328e29) (name "VIN") (hatch edge 0.508)
     (priority 1)
-    (connect_pads yes (clearance 0.15))
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 161.15 73.15)
@@ -59080,11 +59080,11 @@
       )
     )
   )
-  (zone (net 179) (net_name "+5V") (layers F&B.Cu) (tstamp a0ff529d-d0d0-4975-8bcb-784d83469d9f) (name "+5V") (hatch edge 0.508)
+  (zone locked (net 179) (net_name "+5V") (layers F&B.Cu) (tstamp a0ff529d-d0d0-4975-8bcb-784d83469d9f) (name "+5V") (hatch edge 0.508)
     (priority 1)
-    (connect_pads yes (clearance 0.15))
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 114.55 68.7)
@@ -59261,10 +59261,10 @@
       )
     )
   )
-  (zone (net 2) (net_name "GND") (layers "F.Cu" "In1.Cu") (tstamp b0b2ec57-7a20-4440-a7f5-6c884642a6e5) (name "GND") (hatch edge 0.508)
-    (connect_pads yes (clearance 0))
+  (zone locked (net 2) (net_name "GND") (layers "F.Cu" "In1.Cu") (tstamp b0b2ec57-7a20-4440-a7f5-6c884642a6e5) (name "GND") (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 188 105)
@@ -59292,11 +59292,11 @@
       )
     )
   )
-  (zone (net 3) (net_name "/Power-Interface/VBUS") (layer "F.Cu") (tstamp c569cc1c-8e6d-4aa1-b756-770af6574afb) (name "VBUS") (hatch edge 0.508)
+  (zone locked (net 3) (net_name "/Power-Interface/VBUS") (layer "F.Cu") (tstamp c569cc1c-8e6d-4aa1-b756-770af6574afb) (name "VBUS") (hatch edge 0.508)
     (priority 1)
-    (connect_pads yes (clearance 0.15))
-    (min_thickness 0.2) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (connect_pads (clearance 0.508))
+    (min_thickness 0.254) (filled_areas_thickness no)
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 95.95 87.25)
@@ -59489,11 +59489,11 @@
       )
     )
   )
-  (zone (net 3) (net_name "/Power-Interface/VBUS") (layer "F.Cu") (tstamp eee5ad98-48fb-4126-a8f6-1f16659b0787) (name "VBUS") (hatch edge 0.508)
+  (zone locked (net 3) (net_name "/Power-Interface/VBUS") (layer "F.Cu") (tstamp eee5ad98-48fb-4126-a8f6-1f16659b0787) (name "VBUS") (hatch edge 0.508)
     (priority 1)
-    (connect_pads yes (clearance 0.15))
-    (min_thickness 0.2) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (connect_pads (clearance 0.508))
+    (min_thickness 0.254) (filled_areas_thickness no)
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 102.4 81.9)
@@ -59596,10 +59596,10 @@
       )
     )
   )
-  (zone (net 2) (net_name "GND") (layer "F.Cu") (tstamp f7d26fca-d7ff-4c6b-bb08-460e3e294452) (name "GND") (hatch edge 0.508)
-    (connect_pads yes (clearance 0))
+  (zone locked (net 2) (net_name "GND") (layer "F.Cu") (tstamp f7d26fca-d7ff-4c6b-bb08-460e3e294452) (name "GND") (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 132.65 51.35)
@@ -59692,7 +59692,7 @@
       )
     )
   )
-  (zone (net 10) (net_name "+3V3") (layer "In2.Cu") (tstamp 6d2dd45d-ead2-434f-872e-742521fdcebc) (name "3V3") (hatch edge 0.508)
+  (zone locked (net 10) (net_name "+3V3") (layer "In2.Cu") (tstamp 6d2dd45d-ead2-434f-872e-742521fdcebc) (name "3V3") (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
     (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
@@ -80041,11 +80041,11 @@
       )
     )
   )
-  (zone (net 179) (net_name "+5V") (layer "In2.Cu") (tstamp ec5adaec-c655-40fd-ae6b-be31d60cb8ef) (name "VIN") (hatch edge 0.508)
+  (zone locked (net 179) (net_name "+5V") (layer "In2.Cu") (tstamp ec5adaec-c655-40fd-ae6b-be31d60cb8ef) (name "VIN") (hatch edge 0.508)
     (priority 1)
-    (connect_pads yes (clearance 0.15))
+    (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
-    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.2))
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.4))
     (polygon
       (pts
         (xy 114.45 73.35)

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=1V8_SENSOR Pin=P3-l
+Added Class: Name=USB
+Added Differential Pair: Name=USB
+Added Class: Name=USB_Lines
