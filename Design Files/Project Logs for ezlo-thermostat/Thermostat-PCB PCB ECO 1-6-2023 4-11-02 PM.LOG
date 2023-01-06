@@ -1,0 +1,3 @@
+Added Component: Designator=P3(Test-point)
+Added Pin To Net: NetName=1V8_SENSOR Pin=P3-1
+Added Member To Class: ClassName=U_Power-Sheet Member=Component P3 TEST POINT

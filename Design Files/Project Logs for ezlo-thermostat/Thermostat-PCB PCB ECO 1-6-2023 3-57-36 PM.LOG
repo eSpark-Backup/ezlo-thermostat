@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=1V8_SENSOR Pin=P3-l
+Change Component Library : Designator=FB2 Old Library=eSpark_centralized_Library(2022).IntLib New Library=Centralize.SchLib
+Added Member To Class: ClassName=U_Power-Sheet Member=Component C9 0.01uF
+Added Member To Class: ClassName=U_Power-Sheet Member=Component D1 SP0503BAHTG
+Added Member To Class: ClassName=U_Power-Sheet Member=Component J1 TYPE-C-31-M-12

@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : E:\ezlo-thermostat\Design Files\Thermostat-PCB.PcbDoc
-Date         : 1/5/2023
-Time         : 7:00:24 PM
+Date         : 1/6/2023
+Time         : 12:59:51 PM
 Time Elapsed : 00:00:00
 
 General
@@ -10,21 +10,21 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 92.48%
+    Routing completion, 99.80%
     Connections, 505
-    Connections routed, 467
-    Connections remaining, 38
+    Connections routed, 504
+    Connections remaining, 1
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 566, 0, 945, 0, 119, 0, 0
+    Top Layer, 0, 566, 0, 1127, 0, 122, 0, 0
     PWR, 4, 0, 0, 20, 0, 2, 1, 0
     GND, 4, 0, 0, 20, 0, 2, 1, 0
-    Bottom Layer, 0, 22, 0, 440, 0, 1, 0, 0
+    Bottom Layer, 0, 22, 0, 529, 0, 1, 0, 0
     Mechanical 1, 72, 0, 0, 10, 0, 0, 0, 154
     Mechanical 2, 4, 0, 0, 21, 0, 0, 0, 0
     Mechanical 13, 858, 0, 0, 8135, 0, 0, 0, 7
-    Multi-Layer, 0, 117, 302, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 117, 350, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 3, 0, 0, 976, 330, 20, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
