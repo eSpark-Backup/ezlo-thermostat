@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : E:\ezlo-thermostat\Design Files\Ezlo-Radar-Sensor\eZlo_Radar.PcbDoc
-Date     : 12/29/2022
-Time     : 11:46:29 AM
+PCB File : C:\Users\XPENDER\Documents\GitHub\ezlo-thermostat\Design Files\Ezlo-Radar-Sensor\eZlo_Radar.PcbDoc
+Date     : 1/13/2023
+Time     : 7:49:43 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -15,10 +15,10 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=25mil) (Preferred=15mil) (All)
+Processing Rule : Width Constraint (Min=3.937mil) (Max=20mil) (Preferred=15.748mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

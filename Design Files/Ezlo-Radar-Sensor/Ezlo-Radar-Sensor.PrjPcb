@@ -80,112 +80,79 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBNAFMHO
 
-[Document3]
-DocumentPath=..\..\Deliverables\Gerber_Files\Gerber_files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\Design Rule Check - eZlo_Radar.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.REP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Ezlo-Radar-Sensor\eZlo_Radar.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\Pick Place for eZlo_Radar.csv
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Ezlo-Radar-Sensor\Pick Place for eZlo_Radar.txt
 DItemRevisionGUID=
 
@@ -304,42 +271,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
