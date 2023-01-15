@@ -1,0 +1,72 @@
+Board Information Report
+Filename     : C:\Users\XPENDER\Documents\GitHub\ezlo-thermostat\Design Files\4-R-layer-PCB.PcbDoc
+Date         : 1/15/2023
+Time         : 4:04:26 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3937.008milsx3543.307mils
+    Components on board, 186
+count : 2
+
+Routing Information
+    Routing completion, 79.01%
+    Connections, 505
+    Connections routed, 399
+    Connections remaining, 106
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 566, 0, 1229, 0, 64, 9, 0
+    PWR, 0, 0, 0, 95, 0, 0, 0, 0
+    GND, 0, 0, 0, 64, 0, 0, 0, 0
+    Bottom Layer, 9, 22, 0, 484, 0, 0, 2, 0
+    Dimension, 72, 0, 0, 2, 0, 0, 0, 154
+    Board Outline, 4, 0, 0, 21, 0, 0, 0, 0
+    Fabrication, 0, 0, 0, 563, 51, 0, 0, 0
+    Mechanical 10, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 12, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 858, 0, 0, 8133, 0, 0, 0, 7
+    Mechanical 18, 0, 0, 0, 1, 0, 0, 0, 0
+    Multi-Layer, 0, 117, 400, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 3, 0, 0, 1297, 400, 20, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 3290, 74, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 1, 0, 0
+    Drill Drawing, 3, 0, 0, 84, 128, 0, 0, 0
+count : 21
+
+Drill Pairs, Vias
+count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 3.072, 1981.654, 22%
+    PWR, 0.931, 600.633, 7%
+    GND, 0.751, 484.511, 5%
+    Bottom Layer, 1.814, 1170.191, 13%
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    24.409mils, 0, 0
+    35.433mils, 0, 0
+count : 3
+
+Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    11.811mils, 0, 0
+    15.748mils, 0, 0
+    31.496mils, 0, 0
+    32.284mils, 0, 0
+    35.433mils, 0, 0
+    98.425mils, 0, 0
+count : 7
+
+Plated Slot Size / Length, Pads
+    23.622mil / 55.118mil, 0
+    23.622mil / 66.929mil, 0
+count : 2
