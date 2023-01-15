@@ -183,7 +183,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XKSLDWKI
 
 [Document9]
-DocumentPath=4-R-layer-PCB.PcbDoc
+DocumentPath=PCB-Thermostat.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
