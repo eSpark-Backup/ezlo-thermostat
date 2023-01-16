@@ -1,0 +1,33 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB-Thermostat.PcbDoc   1/16/2023  10:15:11 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : PCB-Thermostat-RoundHoles.TXT
+ASCII SlotHoles File : PCB-Thermostat-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             380       PTH        55.53inch (1410.52mm)
+T2      16mil (0.4mm)                                             Round             26        PTH        11.66inch (296.12mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.19mm)
+T4      32mil (0.8mm)                                             Round             2         PTH        0.30inch (7.50mm)
+T5      32mil (0.82mm)                                            Round             70        PTH        10.07inch (255.78mm)
+T6      35mil (0.9mm)                                             Round             26        PTH        10.20inch (259.18mm)
+T7      24mil (0.62mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+T8      35mil (0.9mm)                                             Round             2         NPTH       0.09inch (2.30mm)
+T9      98mil (2.5mm)                                             Round             4         NPTH       9.87inch (250.64mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              516
+
+Two holes at same point : 7
+-----------------------
+1007,-404
+1398,-404
+1789,-404
+2180,-404
+2570,-404
+2961,-404
+3352,-404
+
+Total Processing Time (hh:mm:ss) : 00:00:01
