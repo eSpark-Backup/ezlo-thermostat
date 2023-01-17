@@ -1,199 +1,199 @@
 Altium Designer Pick and Place Locations
-E:\ezlo-thermostat\Design Files\Pick Place for PCB-Thermostat.txt
+C:\Users\LiberDB\Documents\GitHub\ezlo-thermostat\Design Files\Project Outputs for ezlo-thermostat\Pick Place for PCB-Thermostat.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       16/01/23
-Time:       18:42
-Revision:   Not in VersionControl
+Date:       17/01/23
+Time:       22:12
+Revision:   f83e81ff56ee318e6bb0bb00fc24e5961ecf9067
 Variant:    No variations
-Units used: mil
+Units used: mm
 
-Designator Comment               Layer       Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                              
-RV1_Relay6 ERZ-V07D680           TopLayer    ERZ-V07D680                   3214.000      202.630       0        "VARISTOR 68V 500A DISC 7MM"                                                                                                                             
-RV1_Relay5 ERZ-V07D680           TopLayer    ERZ-V07D680                   2818.000      202.630       0        "VARISTOR 68V 500A DISC 7MM"                                                                                                                             
-RV1_Relay4 ERZ-V07D680           TopLayer    ERZ-V07D680                   2426.000      202.630       0        "VARISTOR 68V 500A DISC 7MM"                                                                                                                             
-RV1_Relay3 ERZ-V07D680           TopLayer    ERZ-V07D680                   2031.000      202.630       0        "VARISTOR 68V 500A DISC 7MM"                                                                                                                             
-RV1_Relay2 ERZ-V07D680           TopLayer    ERZ-V07D680                   1633.000      202.630       0        "VARISTOR 68V 500A DISC 7MM"                                                                                                                             
-RV1_Relay1 ERZ-V07D680           TopLayer    ERZ-V07D680                   1246.000      202.630       0        "VARISTOR 68V 500A DISC 7MM"                                                                                                                             
-RV1_Relay0 ERZ-V07D680           TopLayer    ERZ-V07D680                   854.000       202.630       0        "VARISTOR 68V 500A DISC 7MM"                                                                                                                             
-K1_Relay6  EA2-3TNU              TopLayer    EA2-3TNU                      3218.000      -209.000      180      "Relay Gen Purpose DPDT 1A 3VDC"                                                                                                                         
-K1_Relay5  EA2-3TNU              TopLayer    EA2-3TNU                      2825.000      -209.000      180      "Relay Gen Purpose DPDT 1A 3VDC"                                                                                                                         
-K1_Relay4  EA2-3TNU              TopLayer    EA2-3TNU                      2431.000      -209.000      180      "Relay Gen Purpose DPDT 1A 3VDC"                                                                                                                         
-K1_Relay3  EA2-3TNU              TopLayer    EA2-3TNU                      2037.000      -209.000      180      "Relay Gen Purpose DPDT 1A 3VDC"                                                                                                                         
-K1_Relay2  EA2-3TNU              TopLayer    EA2-3TNU                      1644.000      -209.000      180      "Relay Gen Purpose DPDT 1A 3VDC"                                                                                                                         
-K1_Relay1  EA2-3TNU              TopLayer    EA2-3TNU                      1250.000      -209.000      180      "Relay Gen Purpose DPDT 1A 3VDC"                                                                                                                         
-K1_Relay0  EA2-3TNU              TopLayer    EA2-3TNU                      857.000       -209.000      180      "Relay Gen Purpose DPDT 1A 3VDC"                                                                                                                         
-C24        100nF                 TopLayer    Cap-0402                      3088.360      1720.819      0        "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-R10        220K                  TopLayer    Res-0402                      3423.000      369.395       270      "RES 220K OHM 1% 1/16W 0402"                                                                                                                             
-R12_Relay2 47R                   TopLayer    Res-0402                      1506.000      128.000       180      "RES 47 OHM 1% 1/16W 0402"                                                                                                                               
-R12_Relay6 47R                   TopLayer    Res-0402                      3083.000      128.000       180      "RES 47 OHM 1% 1/16W 0402"                                                                                                                               
-R12_Relay5 47R                   TopLayer    Res-0402                      2688.000      128.000       180      "RES 47 OHM 1% 1/16W 0402"                                                                                                                               
-R12_Relay4 47R                   TopLayer    Res-0402                      2295.000      128.000       180      "RES 47 OHM 1% 1/16W 0402"                                                                                                                               
-R12_Relay3 47R                   TopLayer    Res-0402                      1900.000      128.000       180      "RES 47 OHM 1% 1/16W 0402"                                                                                                                               
-R12_Relay1 47R                   TopLayer    Res-0402                      1114.000      128.000       180      "RES 47 OHM 1% 1/16W 0402"                                                                                                                               
-R12_Relay0 47R                   TopLayer    Res-0402                      723.000       128.000       180      "RES 47 OHM 1% 1/16W 0402"                                                                                                                               
-P3         "TEST POINT"          TopLayer    Test-point                    3083.937      2569.244      0        "Test Point ON"                                                                                                                                          
-FB2        100MHz                TopLayer    IND-1206                      248.890       1780.449      90       "FERRITE BEAD 120 OHM 1206 1LN"                                                                                                                          
-J1         TYPE-C-31-M-12        TopLayer    TYPE-C-31-M-12_               -1.392        1615.976      270      "250mA 1 16 Female Type-C SMD USB Connectors ROHS"                                                                                                       
-D1         SP0503BAHTG           TopLayer    SOT-143-4_                    380.307       1615.598      180      "ESD Suppressor TVS 5.5V 4-Pin(3+Tab) SOT-143 T/R"                                                                                                       
-LED2       Yellow                TopLayer    LED-0603                      -22.000       650.000       180      "Yellow-Green 572nm LED Indication - Discrete 2.05V 0603 (1608 Metric)"                                                                                  
-LED1       Transparent           TopLayer    LED-0603                      -22.000       572.000       180      "Red 632nm LED Indication - Discrete 2.05V 0603 (1608 Metric)"                                                                                           
-C18        100uF                 TopLayer    UCD1A101MCL1GS                3602.608      787.873       90       "CAP ALUM 100UF 20% 10V SMD"                                                                                                                             
-C17        100uF                 TopLayer    UCD1A101MCL1GS                1019.026      2374.487      0        "CAP ALUM 100UF 20% 10V SMD"                                                                                                                             
-F1         JK-SMD0805-100        TopLayer    Fuse-0805                     423.474       1864.520      90       "6V 1A 100A 1.95A 300ms 0805 Resettable Fuses ROHS"                                                                                                      
-J3         "Voltlink Target"     TopLayer    Voltlink_Target               669.474       2898.854      0        "1x6P SH 1 1mm 6 SMD,P=1mm Wire To Board / Wire To Wire Connector ROHS"                                                                                  
-C31_Relay6 220nF                 TopLayer    Cap-1206                      3100.000      659.000       0        "50V 220nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                                                              
-C31_Relay5 220nF                 TopLayer    Cap-1206                      2710.000      659.000       0        "50V 220nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                                                              
-C31_Relay4 220nF                 TopLayer    Cap-1206                      2319.000      659.000       0        "50V 220nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                                                              
-C31_Relay3 220nF                 TopLayer    Cap-1206                      1937.000      659.000       0        "50V 220nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                                                              
-C31_Relay2 220nF                 TopLayer    Cap-1206                      1535.000      660.000       0        "50V 220nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                                                              
-C31_Relay1 220nF                 TopLayer    Cap-1206                      1146.000      659.000       0        "50V 220nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                                                              
-C31_Relay0 220nF                 TopLayer    Cap-1206                      755.000       659.000       0        "50V 220nF X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                                                              
-R3         5.1K                  TopLayer    Res-0402                      186.500       1547.000      180      "RES 5.1K OHM 1% 1/16W 0402"                                                                                                                             
-R2         5.1K                  TopLayer    Res-0402                      186.500       1672.000      180      "RES 5.1K OHM 1% 1/16W 0402"                                                                                                                             
-R1         1M                    TopLayer    Res-1206                      22.000        1241.000      180      "RES 1M OHM 1% 1/4W 1206"                                                                                                                                
-C20        10uF                  TopLayer    Cap-0402                      3228.000      2582.496      270      "CAP CER 10UF 10V X5R 0402"                                                                                                                              
-C16        10uF                  TopLayer    Cap-0402                      3527.782      2570.000      270      "CAP CER 10UF 10V X5R 0402"                                                                                                                              
-C13        10uF                  TopLayer    Cap-0603                      919.000       2170.000      270      "CAP CER 10UF 16V X5R 0603"                                                                                                                              
-C11        0.01uF                TopLayer    Cap-0402                      324.000       1758.811      90       "CAP CER 10000PF 25V X5R 0402"                                                                                                                           
-C9         0.01uF                TopLayer    Cap-0402                      363.370       1758.811      90       "CAP CER 10000PF 25V X5R 0402"                                                                                                                           
-C6         10uF                  TopLayer    Cap-0402                      3674.000      2509.000      180      "CAP CER 10UF 10V X5R 0402"                                                                                                                              
-C4         4.7nF                 TopLayer    Cap-1206                      22.000        1335.000      0        "CAP CER 4700PF 50V C0G/NPO 1206"                                                                                                                        
-C3         10uF                  TopLayer    Cap-0402                      3493.553      2397.953      270      "CAP CER 10UF 10V X5R 0402"                                                                                                                              
-C1         10uF                  TopLayer    Cap-0402                      3336.073      2415.366      90       "CAP CER 10UF 10V X5R 0402"                                                                                                                              
-U15        ESP32-S3-WROOM-1-N8   TopLayer    41-SMD_Module                 1766.512      2610.394      0        "SMD MODULE, ESP32-S3, 8 MB SPI F"                                                                                                                       
-U14        TXS0108EPWR           TopLayer    TSSOP-20                      2480.436      2549.559      180      "IC TRANSLATOR BIDIR 20TSSOP"                                                                                                                            
-U13_Relay6 OR-3H7B-TP-G          TopLayer    SOP-4-1.27mm_pitch_Body_2.6mm 3307.112      480.031       90       "80V 3750V 2us@2mA,100O -55?~+125? 50mA 3us@2mA,100O 0.4V@2.4mA,8mA 1 6V 1.2V Phototransistor DC SOP-4-2.6mm Optocouplers - Phototransistor Output ROHS" 
-U13_Relay5 OR-3H7B-TP-G          TopLayer    SOP-4-1.27mm_pitch_Body_2.6mm 2912.112      480.031       90       "80V 3750V 2us@2mA,100O -55?~+125? 50mA 3us@2mA,100O 0.4V@2.4mA,8mA 1 6V 1.2V Phototransistor DC SOP-4-2.6mm Optocouplers - Phototransistor Output ROHS" 
-U13_Relay4 OR-3H7B-TP-G          TopLayer    SOP-4-1.27mm_pitch_Body_2.6mm 2527.112      480.031       90       "80V 3750V 2us@2mA,100O -55?~+125? 50mA 3us@2mA,100O 0.4V@2.4mA,8mA 1 6V 1.2V Phototransistor DC SOP-4-2.6mm Optocouplers - Phototransistor Output ROHS" 
-U13_Relay3 OR-3H7B-TP-G          TopLayer    SOP-4-1.27mm_pitch_Body_2.6mm 2137.112      480.031       90       "80V 3750V 2us@2mA,100O -55?~+125? 50mA 3us@2mA,100O 0.4V@2.4mA,8mA 1 6V 1.2V Phototransistor DC SOP-4-2.6mm Optocouplers - Phototransistor Output ROHS" 
-U13_Relay2 OR-3H7B-TP-G          TopLayer    SOP-4-1.27mm_pitch_Body_2.6mm 1750.112      480.031       90       "80V 3750V 2us@2mA,100O -55?~+125? 50mA 3us@2mA,100O 0.4V@2.4mA,8mA 1 6V 1.2V Phototransistor DC SOP-4-2.6mm Optocouplers - Phototransistor Output ROHS" 
-U13_Relay1 OR-3H7B-TP-G          TopLayer    SOP-4-1.27mm_pitch_Body_2.6mm 1352.112      480.031       90       "80V 3750V 2us@2mA,100O -55?~+125? 50mA 3us@2mA,100O 0.4V@2.4mA,8mA 1 6V 1.2V Phototransistor DC SOP-4-2.6mm Optocouplers - Phototransistor Output ROHS" 
-U13_Relay0 OR-3H7B-TP-G          TopLayer    SOP-4-1.27mm_pitch_Body_2.6mm 960.000       480.031       90       "80V 3750V 2us@2mA,100O -55?~+125? 50mA 3us@2mA,100O 0.4V@2.4mA,8mA 1 6V 1.2V Phototransistor DC SOP-4-2.6mm Optocouplers - Phototransistor Output ROHS" 
-U12        ULN2003A              TopLayer    SOP-16_150mil                 3209.498      1023.968      180      "100uA@50V 3V@2V,300mA 1.6V@350mA 4mA@12V 100uA@50V 1.25V@350mA 500mA 25pF SOP-16_150mil Darlington Transistor Arrays ROHS"                              
-U11        ULN2003A              TopLayer    SOP-16_150mil                 2852.144      1024.968      180      "100uA@50V 3V@2V,300mA 1.6V@350mA 4mA@12V 100uA@50V 1.25V@350mA 500mA 25pF SOP-16_150mil Darlington Transistor Arrays ROHS"                              
-U10        SN74LV14AD            TopLayer    14-SOIC                       3571.112      1506.252      180      "SOIC-14 Inverters ROHS"                                                                                                                                 
-U9         SN74LV14AD            TopLayer    14-SOIC                       3211.466      1506.252      180      "SOIC-14 Inverters ROHS"                                                                                                                                 
-U8         SN74LV14AD            TopLayer    14-SOIC                       2854.112      1506.252      180      "SOIC-14 Inverters ROHS"                                                                                                                                 
-U7         74LVC138AD,118        TopLayer    16-SOIC                       2854.900      1949.165      180      "IC DECODER/DEMUX 3-8 INV 16SOIC"                                                                                                                        
-U6         74LVC138AD,118        TopLayer    16-SOIC                       3212.254      1949.165      180      "IC DECODER/DEMUX 3-8 INV 16SOIC"                                                                                                                        
-U5         74LVC138AD,118        TopLayer    16-SOIC                       3571.900      1949.165      180      "IC DECODER/DEMUX 3-8 INV 16SOIC"                                                                                                                        
-U4         BME680                TopLayer    BME680                        359.000       -426.000      0        "SENSOR RH PRESSURE TEMP VOC"                                                                                                                            
-U3         XC6228D182VR-G        TopLayer    SOT-25-5                      3367.888      2602.496      180      "300mA 80dB@(1kHz) 410mV@(300mA) Fixed 1.8V~1.8V Positive 1 5.5V SOT-25-5 Linear Voltage Regulators (LDO) ROHS"                                          
-U2         LR1107G-33-AB3-C-R    TopLayer    SOT-89-3                      774.518       2206.499      90       "600mA 60dB 500mV@(600mA) Fixed 3.3V~3.3V Positive 1 7V SOT-89(SOT-89-3) Linear Voltage Regulators (LDO) ROHS"                                           
-U1         XC6228D332VR-G        TopLayer    SOT-25-5                      3607.134      2380.528      0        "300mA 80dB@(1kHz) 305mV@(300mA) Fixed 3.3V~3.3V Positive 1 5.5V SOT-25-5 Linear Voltage Regulators (LDO) ROHS"                                          
-SW1        YTS-B003-2A           TopLayer    YTS-B003-2A                   -70.998       939.228       90       "3.5mm 3.5mm SMDSplicing Black Rectangle button 50mA Surface Mount 7mm SPST 100MO 20000 12V 250gf@±50gf SMD Tactile Switches ROHS"                       
-R31        10K                   TopLayer    Res-0402                      400.000       2491.500      90       "RES 10K OHM 1% 1/16W 0402"                                                                                                                              
-R30        10K                   TopLayer    Res-0402                      221.000       2510.189      90       "RES 10K OHM 1% 1/16W 0402"                                                                                                                              
-R29        10K                   TopLayer    Res-0402                      400.000       2653.000      270      "RES 10K OHM 1% 1/16W 0402"                                                                                                                              
-R28        10K                   TopLayer    Res-0402                      221.000       2651.401      90       "RES 10K OHM 1% 1/16W 0402"                                                                                                                              
-R27        220K                  TopLayer    Res-0402                      400.000       2251.000      90       "RES 220K OHM 1% 1/16W 0402"                                                                                                                             
-R26        1K                    TopLayer    Res-0402                      641.000       2682.500      270      "RES 1K OHM 1% 1/16W 0402"                                                                                                                               
-R25        10K                   TopLayer    Res-0402                      641.000       2613.500      90       "RES 10K OHM 1% 1/16W 0402"                                                                                                                              
-R24        10K                   TopLayer    Res-0402                      465.000       2653.000      90       "RES 10K OHM 1% 1/16W 0402"                                                                                                                              
-R23        220K                  TopLayer    Res-0402                      400.000       2357.000      90       "RES 220K OHM 1% 1/16W 0402"                                                                                                                             
-R22        1K                    TopLayer    Res-0402                      66.500        651.000       0        "RES 1K OHM 1% 1/16W 0402"                                                                                                                               
-R21        1K                    TopLayer    Res-0402                      66.500        571.000       0        "RES 1K OHM 1% 1/16W 0402"                                                                                                                               
-R20        220K                  TopLayer    Res-0402                      56.000        884.205       270      "RES 220K OHM 1% 1/16W 0402"                                                                                                                             
-R19        22R                   TopLayer    Res-0402                      1346.500      2459.000      180      "RES 22 OHM 1% 1/16W 0402"                                                                                                                               
-R18        22R                   TopLayer    Res-0402                      1346.500      2511.000      180      "RES 22 OHM 1% 1/16W 0402"                                                                                                                               
-R17        4.7K                  TopLayer    Res-0402                      2244.000      2915.000      0        "RES 4.7K OHM 1% 1/16W 0402"                                                                                                                             
-R16        4.7K                  TopLayer    Res-0402                      2244.000      2864.000      0        "RES 4.7K OHM 1% 1/16W 0402"                                                                                                                             
-R15        220K                  TopLayer    Res-0402                      1264.000      2791.000      270      "RES 220K OHM 1% 1/16W 0402"                                                                                                                             
-R14        0R                    TopLayer    Res-0402                      2588.829      2716.757      180      "RES 0 OHM JUMPER 1/16W 0402"                                                                                                                            
-R13_Relay6 100K                  TopLayer    Res-0402                      3218.000      660.000       90       "RES 100K OHM 1% 1/16W 0402"                                                                                                                             
-R13_Relay5 100K                  TopLayer    Res-0402                      2822.000      660.000       90       "RES 100K OHM 1% 1/16W 0402"                                                                                                                             
-R13_Relay4 100K                  TopLayer    Res-0402                      2433.000      660.000       90       "RES 100K OHM 1% 1/16W 0402"                                                                                                                             
-R13_Relay3 100K                  TopLayer    Res-0402                      2047.000      660.000       90       "RES 100K OHM 1% 1/16W 0402"                                                                                                                             
-R13_Relay2 100K                  TopLayer    Res-0402                      1643.000      658.000       90       "RES 100K OHM 1% 1/16W 0402"                                                                                                                             
-R13_Relay1 100K                  TopLayer    Res-0402                      1258.000      660.000       90       "RES 100K OHM 1% 1/16W 0402"                                                                                                                             
-R13_Relay0 100K                  TopLayer    Res-0402                      868.000       660.000       90       "RES 100K OHM 1% 1/16W 0402"                                                                                                                             
-R11        47K                   TopLayer    Res-0402                      3464.813      369.395       270      "RES 47K OHM 1% 1/16W 0402"                                                                                                                              
-R9         220K                  TopLayer    Res-0402                      3140.010      2277.843      90       "RES 220K OHM 1% 1/16W 0402"                                                                                                                             
-R8         220K                  TopLayer    Res-0402                      3238.435      2277.843      90       "RES 220K OHM 1% 1/16W 0402"                                                                                                                             
-R7         220K                  TopLayer    Res-0402                      2943.160      2277.843      90       "RES 220K OHM 1% 1/16W 0402"                                                                                                                             
-R6         220K                  TopLayer    Res-0402                      2844.734      2277.843      90       "RES 220K OHM 1% 1/16W 0402"                                                                                                                             
-R5         220K                  TopLayer    Res-0402                      2747.000      2277.843      90       "RES 220K OHM 1% 1/16W 0402"                                                                                                                             
-R4         220K                  TopLayer    Res-0402                      3041.585      2277.843      90       "RES 220K OHM 1% 1/16W 0402"                                                                                                                             
-Q5         Si2302CDS             TopLayer    Sot-23                        309.630       2510.601      270      "N-CHANNEL 20-V (D-S) MOSFET"                                                                                                                            
-Q4         Si2302CDS             TopLayer    Sot-23                        309.630       2651.401      270      "N-CHANNEL 20-V (D-S) MOSFET"                                                                                                                            
-Q3         Si2302CDS             TopLayer    Sot-23                        309.630       2233.000      90       "N-CHANNEL 20-V (D-S) MOSFET"                                                                                                                            
-Q2         Si2302CDS             TopLayer    Sot-23                        309.630       2373.800      90       "N-CHANNEL 20-V (D-S) MOSFET"                                                                                                                            
-Q1         Si2302CDS             TopLayer    Sot-23                        551.370       2651.401      270      "N-CHANNEL 20-V (D-S) MOSFET"                                                                                                                            
-P27        61300611121           TopLayer    HDR1X6_                       2509.843      1175.197      90       "CONN HEADER 6 POS 2.54"                                                                                                                                 
-P26        61300611121           TopLayer    HDR1X6_                       1012.057      1175.543      270      "CONN HEADER 6 POS 2.54"                                                                                                                                 
-P25        "TEST POINT"          BottomLayer Test-point                    273.000       2549.601      180      "Test Point ON"                                                                                                                                          
-P24        "TEST POINT"          BottomLayer Test-point                    273.000       2270.000      180      "Test Point ON"                                                                                                                                          
-P23        "TEST POINT"          BottomLayer Test-point                    273.000       2645.000      180      "Test Point ON"                                                                                                                                          
-P22        "TEST POINT"          BottomLayer Test-point                    273.000       2365.000      180      "Test Point ON"                                                                                                                                          
-P21        "TEST POINT"          BottomLayer Test-point                    273.000       2081.000      180      "Test Point ON"                                                                                                                                          
-P20        "TEST POINT"          BottomLayer Test-point                    273.000       2175.000      180      "Test Point ON"                                                                                                                                          
-P19        "TEST POINT"          BottomLayer Test-point                    273.000       2737.386      180      "Test Point ON"                                                                                                                                          
-P18        "TEST POINT"          BottomLayer Test-point                    -23.000       1969.000      180      "Test Point ON"                                                                                                                                          
-P17        "TEST POINT"          BottomLayer Test-point                    273.000       2457.000      270      "Test Point ON"                                                                                                                                          
-P16        "TEST POINT"          BottomLayer Test-point                    2274.000      2573.000      0        "Test Point ON"                                                                                                                                          
-P15        "TEST POINT"          BottomLayer Test-point                    2274.000      2478.667      0        "Test Point ON"                                                                                                                                          
-P14        "TEST POINT"          BottomLayer Test-point                    2274.000      2384.333      0        "Test Point ON"                                                                                                                                          
-P13        "TEST POINT"          BottomLayer Test-point                    2274.000      2291.000      0        "Test Point ON"                                                                                                                                          
-P12        "TEST POINT"          BottomLayer Test-point                    2236.504      2848.000      90       "Test Point ON"                                                                                                                                          
-P11        "TEST POINT"          BottomLayer Test-point                    2236.504      2942.550      90       "Test Point ON"                                                                                                                                          
-P10        "TEST POINT"          BottomLayer Test-point                    2647.000      2175.772      180      "Test Point ON"                                                                                                                                          
-P9         "TEST POINT"          BottomLayer Test-point                    3238.435      2175.772      180      "Test Point ON"                                                                                                                                          
-P8         "TEST POINT"          BottomLayer Test-point                    3141.435      2175.772      180      "Test Point ON"                                                                                                                                          
-P7         "TEST POINT"          BottomLayer Test-point                    2945.000      2175.772      180      "Test Point ON"                                                                                                                                          
-P6         "TEST POINT"          BottomLayer Test-point                    2845.000      2175.772      180      "Test Point ON"                                                                                                                                          
-P5         "TEST POINT"          BottomLayer Test-point                    2747.000      2175.772      180      "Test Point ON"                                                                                                                                          
-P4         "TEST POINT"          BottomLayer Test-point                    862.750       2311.000      180      "Test Point ON"                                                                                                                                          
-P2         "TEST POINT"          TopLayer    Test-point                    3372.000      2715.000      0        "Test Point ON"                                                                                                                                          
-P1         "TEST POINT"          TopLayer    Test-point                    3735.000      2410.000      0        "Test Point ON"                                                                                                                                          
-LED6       SK6812-EC20           TopLayer    SK6812-EC20                   3711.000      2914.000      0        "5mA -40?~+80? RGB SMD,2x2mm Light Emitting Diodes (LED) ROHS"                                                                                           
-LED5       SK6812-EC20           TopLayer    SK6812-EC20                   3711.000      -424.000      90       "5mA -40?~+80? RGB SMD,2x2mm Light Emitting Diodes (LED) ROHS"                                                                                           
-LED4       SK6812-EC20           TopLayer    SK6812-EC20                   -69.000       -422.000      0        "5mA -40?~+80? RGB SMD,2x2mm Light Emitting Diodes (LED) ROHS"                                                                                           
-LED3       SK6812-EC20           TopLayer    SK6812-EC20                   -69.000       2913.000      0        "5mA -40?~+80? RGB SMD,2x2mm Light Emitting Diodes (LED) ROHS"                                                                                           
-L1         10uH                  TopLayer    IND-1008_(2520_Metric)        3414.813      2371.731      270      "FIXED IND 10UH 1A 540 MOHM SMD"                                                                                                                         
-J5         SM10B-SRSS-TB(LF)(SN) TopLayer    SM10B-SRSS-TB(LF)(SN)         40.305        2437.354      270      "CONN HEADER SMD R/A 10POS 1MM"                                                                                                                          
-J4         20021121-00010C4LF    TopLayer    20021121-00010C4LF_           1043.553      2859.992      180      "CONN HEADER SMD 10POS 1.27MM"                                                                                                                           
-J2         AFC01-S10FCC-00       TopLayer    AFC01-S10FCC-00               2910.000      2807.000      180      "Clamshell 10 Bottom Contact Surface Mount 0.5mm SMD,P=0.5mm FFC/FPC Connectors ROHS"                                                                    
-FB6        100MHz                TopLayer    IND-0402                      2446.096      2333.417      180      "FERRITE BEAD 120 OHM 0402 1LN"                                                                                                                          
-FB5        100MHz                TopLayer    IND-0402                      2588.000      2759.000      180      "FERRITE BEAD 120 OHM 0402 1LN"                                                                                                                          
-FB4        100MHz                TopLayer    IND-0402                      3571.000      2570.000      90       "FERRITE BEAD 120 OHM 0402 1LN"                                                                                                                          
-FB3        100MHz                TopLayer    IND-0402                      3617.000      2570.000      90       "FERRITE BEAD 120 OHM 0402 1LN"                                                                                                                          
-FB1        BLM18SG121TN1D        TopLayer    IND-0603_(1608_Metric)        423.474       1742.597      90       "FERRITE BEAD 120 OHM 0603 1LN"                                                                                                                          
-F2         SMD1206K200SF6V       TopLayer    Fuse_1206_(3216_Metric)       248.890       1954.906      90       "6V 2A 100A 0.8W 3.5A -40?~+85? 0.018O 1.5s 0.08O 1206 Resettable Fuses ROHS"                                                                            
-C41        100nF                 TopLayer    Cap-0402                      3720.593      2834.992      180      "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C40        100nF                 TopLayer    Cap-0402                      3719.534      -344.142      180      "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C39        100nF                 TopLayer    Cap-0402                      10.089        -428.099      90       "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C38        100nF                 TopLayer    Cap-0402                      10.089        2907.579      90       "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C37        100nF                 TopLayer    Cap-0402                      56.000        963.500       90       "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C36        1uF                   TopLayer    Cap-0402                      1303.000      2791.000      90       "CAP CER 1UF 25V X5R 0402"                                                                                                                               
-C35        100nF                 TopLayer    Cap-0402                      1348.555      2927.625      90       "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C34        22uF                  TopLayer    Cap-0603                      1297.055      2900.125      90       "CAP CER 22UF 6.3V X5R 0603"                                                                                                                             
-C33        100nF                 TopLayer    Cap-0402                      2441.066      2382.361      180      "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C32        100nF                 TopLayer    Cap-0402                      2519.931      2382.361      180      "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C30        100nF                 TopLayer    Cap-0402                      3090.329      1250.347      0        "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C29        100nF                 TopLayer    Cap-0402                      2737.966      1250.347      0        "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C28        100nF                 TopLayer    Cap-0402                      3443.872      1299.559      0        "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C27        100nF                 TopLayer    Cap-0402                      3090.329      1299.559      0        "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C26        100nF                 TopLayer    Cap-0402                      2737.966      1299.559      0        "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C25        100nF                 TopLayer    Cap-0402                      3441.707      1720.819      0        "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C23        100nF                 TopLayer    Cap-0402                      2730.093      1720.819      0        "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C22        100nF                 TopLayer    Cap-0402                      265.000       -458.500      90       "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C21        100nF                 TopLayer    Cap-0402                      265.000       -388.823      270      "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C19        100nF                 TopLayer    Cap-0402                      3272.888      2582.496      90       "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C15        100nF                 TopLayer    Cap-0402                      3488.000      2570.000      90       "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C14        100nF                 TopLayer    Cap-0402                      3674.000      2547.000      0        "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C12        100nF                 TopLayer    Cap-0402                      3674.000      2585.000      180      "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C10        100nF                 TopLayer    Cap-0402                      324.000       1863.811      90       "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C8         100nF                 TopLayer    Cap-0402                      363.370       1863.811      90       "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C7         100nF                 TopLayer    Cap-0402                      3571.000      2503.000      270      "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C5         100nF                 TopLayer    Cap-0402                      3674.000      2471.000      0        "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-C2         100nF                 TopLayer    Cap-0402                      3336.073      2346.838      270      "CAP CER 0.1UF 25V X5R 0402"                                                                                                                             
-BR1_Relay6 ABS10                 TopLayer    ABS                           3132.112      463.102       270      "5uA@1kV 1V@0.4A 1A 1kV -55?~+150?@(Tj) ABS Bridge Rectifiers ROHS"                                                                                      
-BR1_Relay5 ABS10                 TopLayer    ABS                           2742.403      463.102       270      "5uA@1kV 1V@0.4A 1A 1kV -55?~+150?@(Tj) ABS Bridge Rectifiers ROHS"                                                                                      
-BR1_Relay4 ABS10                 TopLayer    ABS                           2352.112      463.102       270      "5uA@1kV 1V@0.4A 1A 1kV -55?~+150?@(Tj) ABS Bridge Rectifiers ROHS"                                                                                      
-BR1_Relay3 ABS10                 TopLayer    ABS                           1956.403      463.102       270      "5uA@1kV 1V@0.4A 1A 1kV -55?~+150?@(Tj) ABS Bridge Rectifiers ROHS"                                                                                      
-BR1_Relay2 ABS10                 TopLayer    ABS                           1558.403      463.102       270      "5uA@1kV 1V@0.4A 1A 1kV -55?~+150?@(Tj) ABS Bridge Rectifiers ROHS"                                                                                      
-BR1_Relay1 ABS10                 TopLayer    ABS                           1172.112      463.102       270      "5uA@1kV 1V@0.4A 1A 1kV -55?~+150?@(Tj) ABS Bridge Rectifiers ROHS"                                                                                      
-BR1_Relay0 ABS10                 TopLayer    ABS                           779.404       463.102       270      "5uA@1kV 1V@0.4A 1A 1kV -55?~+150?@(Tj) ABS Bridge Rectifiers ROHS"                                                                                      
+Designator Layer       Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm)  Pad-X(mm) Pad-Y(mm)  
+J7         TopLayer    63,8048mm    33,5026mm    90       63,8048mm 33,5026mm  63,8048mm 23,5026mm  
+J6         TopLayer    25,7048mm    33,5026mm    270      25,7048mm 43,5026mm  25,7048mm 43,5026mm  
+C3         TopLayer    84,7363mm    59,6097mm    270      84,7363mm 59,6097mm  84,7363mm 60,0796mm  
+C2         TopLayer    88,8746mm    60,9854mm    270      88,8746mm 60,9854mm  88,8746mm 61,4553mm  
+RV1_Relay6 TopLayer    81,6356mm    5,1468mm     0        81,6356mm 5,1468mm   79,0956mm 6,1468mm   
+RV1_Relay5 TopLayer    71,5772mm    5,1468mm     0        71,5772mm 5,1468mm   69,0372mm 6,1468mm   
+RV1_Relay4 TopLayer    61,6204mm    5,1468mm     0        61,6204mm 5,1468mm   59,0804mm 6,1468mm   
+RV1_Relay3 TopLayer    51,5874mm    5,1468mm     0        51,5874mm 5,1468mm   49,0474mm 6,1468mm   
+RV1_Relay2 TopLayer    41,4782mm    5,1468mm     0        41,4782mm 5,1468mm   38,9382mm 6,1468mm   
+RV1_Relay1 TopLayer    31,6484mm    5,1468mm     0        31,6484mm 5,1468mm   29,1084mm 6,1468mm   
+RV1_Relay0 TopLayer    21,6916mm    5,1468mm     0        21,6916mm 5,1468mm   19,1516mm 6,1468mm   
+K1_Relay6  TopLayer    81,7372mm    -5,3086mm    180      81,7372mm -5,3086mm  77,9272mm -10,3886mm 
+K1_Relay5  TopLayer    71,7550mm    -5,3086mm    180      71,7550mm -5,3086mm  67,9450mm -10,3886mm 
+K1_Relay4  TopLayer    61,7474mm    -5,3086mm    180      61,7474mm -5,3086mm  57,9374mm -10,3886mm 
+K1_Relay3  TopLayer    51,7398mm    -5,3086mm    180      51,7398mm -5,3086mm  47,9298mm -10,3886mm 
+K1_Relay2  TopLayer    41,7576mm    -5,3086mm    180      41,7576mm -5,3086mm  37,9476mm -10,3886mm 
+K1_Relay1  TopLayer    31,7500mm    -5,3086mm    180      31,7500mm -5,3086mm  27,9400mm -10,3886mm 
+K1_Relay0  TopLayer    21,7678mm    -5,3086mm    180      21,7678mm -5,3086mm  17,9578mm -10,3886mm 
+C24        TopLayer    78,4444mm    43,7088mm    0        78,4444mm 43,7088mm  77,9745mm 43,7088mm  
+R10        TopLayer    86,9442mm    9,3826mm     270      86,9442mm 9,3826mm   86,9442mm 9,8525mm   
+R12_Relay2 TopLayer    38,2524mm    3,2512mm     180      38,2524mm 3,2512mm   38,7223mm 3,2512mm   
+R12_Relay6 TopLayer    78,3082mm    3,2512mm     180      78,3082mm 3,2512mm   78,7781mm 3,2512mm   
+R12_Relay5 TopLayer    68,2752mm    3,2512mm     180      68,2752mm 3,2512mm   68,7451mm 3,2512mm   
+R12_Relay4 TopLayer    58,2930mm    3,2512mm     180      58,2930mm 3,2512mm   58,7629mm 3,2512mm   
+R12_Relay3 TopLayer    48,2600mm    3,2512mm     180      48,2600mm 3,2512mm   48,7299mm 3,2512mm   
+R12_Relay1 TopLayer    28,2956mm    3,2512mm     180      28,2956mm 3,2512mm   28,7655mm 3,2512mm   
+R12_Relay0 TopLayer    18,3642mm    3,2512mm     180      18,3642mm 3,2512mm   18,8341mm 3,2512mm   
+P3         TopLayer    78,3320mm    65,2588mm    0        78,3320mm 65,2588mm  78,3320mm 65,2588mm  
+FB2        TopLayer    6,3218mm     45,2234mm    90       6,3218mm  45,2234mm  6,3218mm  43,8634mm  
+J1         TopLayer    -0,0354mm    41,0458mm    270      2,3396mm  44,2458mm  2,3396mm  42,7958mm  
+D1         TopLayer    9,6598mm     41,0362mm    180      10,7598mm 40,2862mm  10,7598mm 40,2862mm  
+LED2       TopLayer    -0,5588mm    16,5100mm    180      -0,5588mm 16,5100mm  0,1912mm  16,5100mm  
+LED1       TopLayer    -0,5588mm    14,5288mm    180      -0,5588mm 14,5288mm  0,1912mm  14,5288mm  
+C18        TopLayer    91,5063mm    20,0120mm    90       91,5063mm 20,0120mm  91,5063mm 17,7120mm  
+C17        TopLayer    25,8833mm    60,3120mm    0        25,8833mm 60,3120mm  23,5833mm 60,3120mm  
+F1         TopLayer    10,7563mm    47,3588mm    90       10,7563mm 47,3588mm  10,7563mm 46,2588mm  
+J3         TopLayer    17,0047mm    73,6309mm    0        17,0047mm 73,6309mm  14,5047mm 72,3684mm  
+C31_Relay6 TopLayer    78,7400mm    16,7386mm    0        78,7400mm 16,7386mm  77,4700mm 16,7386mm  
+C31_Relay5 TopLayer    68,8340mm    16,7386mm    0        68,8340mm 16,7386mm  67,5640mm 16,7386mm  
+C31_Relay4 TopLayer    58,9026mm    16,7386mm    0        58,9026mm 16,7386mm  57,6326mm 16,7386mm  
+C31_Relay3 TopLayer    49,1998mm    16,7386mm    0        49,1998mm 16,7386mm  47,9298mm 16,7386mm  
+C31_Relay2 TopLayer    38,9890mm    16,7640mm    0        38,9890mm 16,7640mm  37,7190mm 16,7640mm  
+C31_Relay1 TopLayer    29,1084mm    16,7386mm    0        29,1084mm 16,7386mm  27,8384mm 16,7386mm  
+C31_Relay0 TopLayer    19,1770mm    16,7386mm    0        19,1770mm 16,7386mm  17,9070mm 16,7386mm  
+R3         TopLayer    4,7371mm     39,2938mm    180      4,7371mm  39,2938mm  5,2070mm  39,2938mm  
+R2         TopLayer    4,7371mm     42,4688mm    180      4,7371mm  42,4688mm  5,2070mm  42,4688mm  
+R1         TopLayer    0,5588mm     31,5214mm    180      0,5588mm  31,5214mm  1,8288mm  31,5214mm  
+C20        TopLayer    81,9912mm    65,5954mm    270      81,9912mm 65,5954mm  81,9912mm 66,0653mm  
+C16        TopLayer    89,6057mm    65,2780mm    90       89,6057mm 65,2780mm  89,6057mm 64,8081mm  
+C13        TopLayer    23,3426mm    55,1180mm    270      23,3426mm 55,1180mm  23,3426mm 55,8800mm  
+C11        TopLayer    8,2296mm     44,6738mm    90       8,2296mm  44,6738mm  8,2296mm  44,2039mm  
+C9         TopLayer    9,2296mm     44,6738mm    90       9,2296mm  44,6738mm  9,2296mm  44,2039mm  
+C6         TopLayer    93,3196mm    63,7286mm    180      93,3196mm 63,7286mm  93,7895mm 63,7286mm  
+C4         TopLayer    0,5588mm     33,9090mm    0        0,5588mm  33,9090mm  -0,7112mm 33,9090mm  
+C1         TopLayer    84,7363mm    61,3503mm    90       84,7363mm 61,3503mm  84,7363mm 60,8804mm  
+U15        TopLayer    44,8694mm    66,3040mm    0        44,8694mm 66,3040mm  36,1194mm 75,1840mm  
+U14        TopLayer    63,0031mm    64,7588mm    180      63,0031mm 64,7588mm  65,9031mm 61,8338mm  
+U13_Relay6 TopLayer    84,0006mm    12,1928mm    90       84,0006mm 12,1928mm  83,3657mm 9,0678mm   
+U13_Relay5 TopLayer    73,9677mm    12,1928mm    90       73,9677mm 12,1928mm  73,3327mm 9,0678mm   
+U13_Relay4 TopLayer    64,1887mm    12,1928mm    90       64,1887mm 12,1928mm  63,5537mm 9,0678mm   
+U13_Relay3 TopLayer    54,2826mm    12,1928mm    90       54,2826mm 12,1928mm  53,6477mm 9,0678mm   
+U13_Relay2 TopLayer    44,4529mm    12,1928mm    90       44,4529mm 12,1928mm  43,8179mm 9,0678mm   
+U13_Relay1 TopLayer    34,3436mm    12,1928mm    90       34,3436mm 12,1928mm  33,7087mm 9,0678mm   
+U13_Relay0 TopLayer    24,3840mm    12,1928mm    90       24,3840mm 12,1928mm  23,7490mm 9,0678mm   
+U12        TopLayer    81,5213mm    26,0088mm    180      81,5213mm 26,0088mm  84,3963mm 21,5638mm  
+U11        TopLayer    72,4445mm    26,0342mm    180      72,4445mm 26,0342mm  75,3195mm 21,5892mm  
+U10        TopLayer    90,7063mm    38,2588mm    180      90,7063mm 38,2588mm  93,4063mm 34,4488mm  
+U9         TopLayer    81,5713mm    38,2588mm    180      81,5713mm 38,2588mm  84,2713mm 34,4488mm  
+U8         TopLayer    72,4945mm    38,2588mm    180      72,4945mm 38,2588mm  75,1945mm 34,4488mm  
+U7         TopLayer    72,5145mm    49,5088mm    180      75,3745mm 45,0638mm  75,3745mm 45,0638mm  
+U6         TopLayer    81,5913mm    49,5088mm    180      84,4513mm 45,0638mm  84,4513mm 45,0638mm  
+U5         TopLayer    90,7262mm    49,5088mm    180      93,5863mm 45,0638mm  93,5863mm 45,0638mm  
+U4         TopLayer    9,1186mm     -10,8204mm   0        9,1186mm  -10,8204mm 10,3186mm -9,6204mm  
+U3         TopLayer    85,5444mm    66,1034mm    180      85,5444mm 66,1034mm  86,7444mm 65,1534mm  
+U2         TopLayer    19,6728mm    56,0451mm    90       19,6728mm 56,0451mm  20,8053mm 54,5451mm  
+U1         TopLayer    91,6212mm    60,4654mm    0        91,6212mm 60,4654mm  90,4212mm 61,4154mm  
+SW1        TopLayer    -1,8034mm    23,8564mm    90       -1,8034mm 23,8564mm  -0,6784mm 21,7564mm  
+R31        TopLayer    10,1600mm    63,2841mm    90       10,1600mm 63,2841mm  10,1600mm 62,8142mm  
+R30        TopLayer    5,6134mm     63,7588mm    90       5,6134mm  63,7588mm  5,6134mm  63,2889mm  
+R29        TopLayer    10,1600mm    67,3862mm    270      10,1600mm 67,3862mm  10,1600mm 67,8561mm  
+R28        TopLayer    5,6134mm     67,3456mm    90       5,6134mm  67,3456mm  5,6134mm  66,8757mm  
+R27        TopLayer    10,1600mm    57,1754mm    90       10,1600mm 57,1754mm  10,1600mm 56,7055mm  
+R26        TopLayer    16,2814mm    68,1355mm    270      16,2814mm 68,1355mm  16,2814mm 68,6054mm  
+R25        TopLayer    16,2814mm    66,3829mm    90       16,2814mm 66,3829mm  16,2814mm 65,9130mm  
+R24        TopLayer    11,8110mm    67,3862mm    90       11,8110mm 67,3862mm  11,8110mm 66,9163mm  
+R23        TopLayer    10,1600mm    59,8678mm    90       10,1600mm 59,8678mm  10,1600mm 59,3979mm  
+R22        TopLayer    1,6891mm     16,5354mm    0        1,6891mm  16,5354mm  1,2192mm  16,5354mm  
+R21        TopLayer    1,6891mm     14,5034mm    0        1,6891mm  14,5034mm  1,2192mm  14,5034mm  
+R20        TopLayer    1,4224mm     22,4588mm    270      1,4224mm  22,4588mm  1,4224mm  22,9287mm  
+R19        TopLayer    34,2011mm    62,4586mm    180      34,2011mm 62,4586mm  34,6710mm 62,4586mm  
+R18        TopLayer    34,2011mm    63,7794mm    180      34,2011mm 63,7794mm  34,6710mm 63,7794mm  
+R17        TopLayer    56,9976mm    74,0410mm    0        56,9976mm 74,0410mm  56,5277mm 74,0410mm  
+R16        TopLayer    56,9976mm    72,7456mm    0        56,9976mm 72,7456mm  56,5277mm 72,7456mm  
+R15        TopLayer    32,1056mm    70,8914mm    270      32,1056mm 70,8914mm  32,1056mm 71,3613mm  
+R14        TopLayer    65,7563mm    69,0056mm    180      65,7563mm 69,0056mm  66,2262mm 69,0056mm  
+R13_Relay6 TopLayer    81,7372mm    16,7640mm    90       81,7372mm 16,7640mm  81,7372mm 16,2941mm  
+R13_Relay5 TopLayer    71,6788mm    16,7640mm    90       71,6788mm 16,7640mm  71,6788mm 16,2941mm  
+R13_Relay4 TopLayer    61,7982mm    16,7640mm    90       61,7982mm 16,7640mm  61,7982mm 16,2941mm  
+R13_Relay3 TopLayer    51,9938mm    16,7640mm    90       51,9938mm 16,7640mm  51,9938mm 16,2941mm  
+R13_Relay2 TopLayer    41,7322mm    16,7132mm    90       41,7322mm 16,7132mm  41,7322mm 16,2433mm  
+R13_Relay1 TopLayer    31,9532mm    16,7640mm    90       31,9532mm 16,7640mm  31,9532mm 16,2941mm  
+R13_Relay0 TopLayer    22,0472mm    16,7640mm    90       22,0472mm 16,7640mm  22,0472mm 16,2941mm  
+R11        TopLayer    88,0063mm    9,3826mm     270      88,0063mm 9,3826mm   88,0063mm 9,8525mm   
+R9         TopLayer    79,7563mm    57,8572mm    90       79,7563mm 57,8572mm  79,7563mm 57,3873mm  
+R8         TopLayer    82,2563mm    57,8572mm    90       82,2563mm 57,8572mm  82,2563mm 57,3873mm  
+R7         TopLayer    74,7563mm    57,8572mm    90       74,7563mm 57,8572mm  74,7563mm 57,3873mm  
+R6         TopLayer    72,2563mm    57,8572mm    90       72,2563mm 57,8572mm  72,2563mm 57,3873mm  
+R5         TopLayer    69,7738mm    57,8572mm    90       69,7738mm 57,8572mm  69,7738mm 57,3873mm  
+R4         TopLayer    77,2563mm    57,8572mm    90       77,2563mm 57,8572mm  77,2563mm 57,3873mm  
+Q5         TopLayer    7,8646mm     63,7693mm    270      7,8646mm  63,7693mm  6,8646mm  64,7193mm  
+Q4         TopLayer    7,8646mm     67,3456mm    270      7,8646mm  67,3456mm  6,8646mm  68,2956mm  
+Q3         TopLayer    7,8646mm     56,7182mm    90       7,8646mm  56,7182mm  8,8646mm  55,7682mm  
+Q2         TopLayer    7,8646mm     60,2945mm    90       7,8646mm  60,2945mm  8,8646mm  59,3445mm  
+Q1         TopLayer    14,0048mm    67,3456mm    270      14,0048mm 67,3456mm  13,0048mm 68,2956mm  
+P25        BottomLayer 6,9342mm     64,7599mm    180      6,9342mm  64,7599mm  6,9342mm  64,7599mm  
+P24        BottomLayer 6,9342mm     57,6580mm    180      6,9342mm  57,6580mm  6,9342mm  57,6580mm  
+P23        BottomLayer 6,9342mm     67,1830mm    180      6,9342mm  67,1830mm  6,9342mm  67,1830mm  
+P22        BottomLayer 6,9342mm     60,0710mm    180      6,9342mm  60,0710mm  6,9342mm  60,0710mm  
+P21        BottomLayer 6,9342mm     52,8574mm    180      6,9342mm  52,8574mm  6,9342mm  52,8574mm  
+P20        BottomLayer 6,9342mm     55,2450mm    180      6,9342mm  55,2450mm  6,9342mm  55,2450mm  
+P19        BottomLayer 6,9342mm     69,5296mm    180      6,9342mm  69,5296mm  6,9342mm  69,5296mm  
+P18        BottomLayer -0,5842mm    50,0126mm    180      -0,5842mm 50,0126mm  -0,5842mm 50,0126mm  
+P17        BottomLayer 6,9342mm     62,4078mm    270      6,9342mm  62,4078mm  6,9342mm  62,4078mm  
+P16        BottomLayer 57,7596mm    65,3542mm    0        57,7596mm 65,3542mm  57,7596mm 65,3542mm  
+P15        BottomLayer 57,7596mm    62,9581mm    0        57,7596mm 62,9581mm  57,7596mm 62,9581mm  
+P14        BottomLayer 57,7596mm    60,5621mm    0        57,7596mm 60,5621mm  57,7596mm 60,5621mm  
+P13        BottomLayer 57,7596mm    58,1914mm    0        57,7596mm 58,1914mm  57,7596mm 58,1914mm  
+P12        BottomLayer 56,8072mm    72,3392mm    90       56,8072mm 72,3392mm  56,8072mm 72,3392mm  
+P11        BottomLayer 56,8072mm    74,7408mm    90       56,8072mm 74,7408mm  56,8072mm 74,7408mm  
+P10        BottomLayer 67,2338mm    55,2646mm    180      67,2338mm 55,2646mm  67,2338mm 55,2646mm  
+P9         BottomLayer 82,2563mm    55,2646mm    180      82,2563mm 55,2646mm  82,2563mm 55,2646mm  
+P8         BottomLayer 79,7925mm    55,2646mm    180      79,7925mm 55,2646mm  79,7925mm 55,2646mm  
+P7         BottomLayer 74,8030mm    55,2646mm    180      74,8030mm 55,2646mm  74,8030mm 55,2646mm  
+P6         BottomLayer 72,2630mm    55,2646mm    180      72,2630mm 55,2646mm  72,2630mm 55,2646mm  
+P5         BottomLayer 69,7738mm    55,2646mm    180      69,7738mm 55,2646mm  69,7738mm 55,2646mm  
+P4         BottomLayer 21,9139mm    58,6994mm    180      21,9139mm 58,6994mm  21,9139mm 58,6994mm  
+P2         TopLayer    85,6488mm    68,9610mm    0        85,6488mm 68,9610mm  85,6488mm 68,9610mm  
+P1         TopLayer    94,8690mm    61,2140mm    0        94,8690mm 61,2140mm  94,8690mm 61,2140mm  
+LED6       TopLayer    94,2594mm    74,0156mm    0        94,2594mm 74,0156mm  94,9094mm 73,4156mm  
+LED5       TopLayer    94,2594mm    -10,7696mm   90       94,2594mm -10,7696mm 94,8594mm -10,1196mm 
+LED4       TopLayer    -1,7526mm    -10,7188mm   0        -1,7526mm -10,7188mm -1,1026mm -11,3188mm 
+LED3       TopLayer    -1,7526mm    73,9902mm    0        -1,7526mm 73,9902mm  -1,1026mm 73,3902mm  
+L1         TopLayer    86,7363mm    60,2420mm    270      86,7363mm 60,2420mm  86,7363mm 61,1920mm  
+J5         TopLayer    1,0238mm     61,9088mm    270      1,0238mm  61,9088mm  2,9613mm  66,4088mm  
+J4         TopLayer    26,5063mm    72,6438mm    180      26,5063mm 72,6438mm  29,0463mm 74,5938mm  
+J2         TopLayer    73,9140mm    71,2978mm    180      73,9140mm 71,2978mm  76,1640mm 69,9578mm  
+FB6        TopLayer    62,1309mm    59,2688mm    180      62,1309mm 59,2688mm  62,4809mm 59,2688mm  
+FB5        TopLayer    65,7352mm    70,0786mm    180      65,7352mm 70,0786mm  66,0852mm 70,0786mm  
+FB4        TopLayer    90,7034mm    65,2780mm    90       90,7034mm 65,2780mm  90,7034mm 64,9280mm  
+FB3        TopLayer    91,8718mm    65,2780mm    90       91,8718mm 65,2780mm  91,8718mm 64,9280mm  
+FB1        TopLayer    10,7563mm    44,2620mm    90       10,7563mm 44,2620mm  10,7563mm 43,5620mm  
+F2         TopLayer    6,3218mm     49,6546mm    90       6,3218mm  49,6546mm  6,3218mm  48,1266mm  
+C41        TopLayer    94,5031mm    72,0088mm    180      94,5031mm 72,0088mm  94,9730mm 72,0088mm  
+C40        TopLayer    94,4762mm    -8,7412mm    180      94,4762mm -8,7412mm  94,9461mm -8,7412mm  
+C39        TopLayer    0,2562mm     -10,8737mm   90       0,2562mm  -10,8737mm 0,2562mm  -11,3436mm 
+C38        TopLayer    0,2562mm     73,8525mm    90       0,2562mm  73,8525mm  0,2562mm  73,3826mm  
+C37        TopLayer    1,4224mm     24,4729mm    90       1,4224mm  24,4729mm  1,4224mm  24,0030mm  
+C36        TopLayer    33,0962mm    70,8914mm    90       33,0962mm 70,8914mm  33,0962mm 70,4215mm  
+C35        TopLayer    34,2533mm    74,3617mm    90       34,2533mm 74,3617mm  34,2533mm 73,8918mm  
+C34        TopLayer    32,9452mm    73,6632mm    90       32,9452mm 73,6632mm  32,9452mm 72,9012mm  
+C33        TopLayer    62,0031mm    60,5120mm    180      62,0031mm 60,5120mm  62,4730mm 60,5120mm  
+C32        TopLayer    64,0063mm    60,5120mm    180      64,0063mm 60,5120mm  64,4762mm 60,5120mm  
+C30        TopLayer    78,4944mm    31,7588mm    0        78,4944mm 31,7588mm  78,0245mm 31,7588mm  
+C29        TopLayer    69,5444mm    31,7588mm    0        69,5444mm 31,7588mm  69,0745mm 31,7588mm  
+C28        TopLayer    87,4744mm    33,0088mm    0        87,4744mm 33,0088mm  87,0045mm 33,0088mm  
+C27        TopLayer    78,4944mm    33,0088mm    0        78,4944mm 33,0088mm  78,0245mm 33,0088mm  
+C26        TopLayer    69,5444mm    33,0088mm    0        69,5444mm 33,0088mm  69,0745mm 33,0088mm  
+C25        TopLayer    87,4194mm    43,7088mm    0        87,4194mm 43,7088mm  86,9495mm 43,7088mm  
+C23        TopLayer    69,3444mm    43,7088mm    0        69,3444mm 43,7088mm  68,8745mm 43,7088mm  
+C22        TopLayer    6,7310mm     -11,6459mm   90       6,7310mm  -11,6459mm 6,7310mm  -12,1158mm 
+C21        TopLayer    6,7310mm     -9,8761mm    270      6,7310mm  -9,8761mm  6,7310mm  -9,4062mm  
+C19        TopLayer    83,1314mm    65,5954mm    90       83,1314mm 65,5954mm  83,1314mm 65,1255mm  
+C15        TopLayer    88,5952mm    65,2780mm    270      88,5952mm 65,2780mm  88,5952mm 65,7479mm  
+C14        TopLayer    93,3196mm    64,6938mm    0        93,3196mm 64,6938mm  92,8497mm 64,6938mm  
+C12        TopLayer    93,3196mm    65,6590mm    0        93,3196mm 65,6590mm  92,8497mm 65,6590mm  
+C10        TopLayer    8,2296mm     47,3408mm    90       8,2296mm  47,3408mm  8,2296mm  46,8709mm  
+C8         TopLayer    9,2296mm     47,3408mm    90       9,2296mm  47,3408mm  9,2296mm  46,8709mm  
+C7         TopLayer    90,7034mm    63,5762mm    270      90,7034mm 63,5762mm  90,7034mm 64,0461mm  
+C5         TopLayer    93,3196mm    62,7634mm    0        93,3196mm 62,7634mm  92,8497mm 62,7634mm  
+BR1_Relay6 TopLayer    79,5557mm    11,7628mm    270      79,5557mm 11,7628mm  81,6057mm 14,6228mm  
+BR1_Relay5 TopLayer    69,6571mm    11,7628mm    270      69,6571mm 11,7628mm  71,7071mm 14,6228mm  
+BR1_Relay4 TopLayer    59,7437mm    11,7628mm    270      59,7437mm 11,7628mm  61,7937mm 14,6228mm  
+BR1_Relay3 TopLayer    49,6927mm    11,7628mm    270      49,6927mm 11,7628mm  51,7427mm 14,6228mm  
+BR1_Relay2 TopLayer    39,5835mm    11,7628mm    270      39,5835mm 11,7628mm  41,6335mm 14,6228mm  
+BR1_Relay1 TopLayer    29,7717mm    11,7628mm    270      29,7717mm 11,7628mm  31,8217mm 14,6228mm  
+BR1_Relay0 TopLayer    19,7969mm    11,7628mm    270      19,7969mm 11,7628mm  21,8469mm 14,6228mm  
