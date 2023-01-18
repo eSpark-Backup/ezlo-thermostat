@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\LiberDB\Documents\GitHub\ezlo-thermostat\Design Files\Project Outputs for ezlo-thermostat\Pick Place for PCB-Thermostat.txt
+C:\Users\XPENDER\Documents\GitHub\ezlo-thermostat\Design Files\Project Outputs for ezlo-thermostat\Pick Place for PCB-Thermostat.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       17/01/23
-Time:       22:12
-Revision:   f83e81ff56ee318e6bb0bb00fc24e5961ecf9067
+Date:       19/01/23
+Time:       01:26
+Revision:   5503a8c38f3d03ebfd5119061df7b6b3bd386bae
 Variant:    No variations
 Units used: mm
 

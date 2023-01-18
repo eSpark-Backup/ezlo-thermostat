@@ -317,12 +317,12 @@ Used DCodes :
     D27
     D71
     D77
+    D80
     D81
     D82
     D83
-    D86
-    D87
-    D88
+    D84
+    D85
     D89
     D90
     D91
@@ -354,15 +354,13 @@ Generating : GND
 
 Used DCodes :
     D12
-    D81
+    D80
     D82
     D83
-    D86
+    D84
     D89
-    D90
     D139
     D143
-    D144
     D148
 *************************************************************
 
@@ -379,11 +377,10 @@ Used DCodes :
     D10
     D12
     D71
-    D81
-    D82
-    D83
-    D86
-    D87
+    D80
+    D84
+    D85
+    D89
     D90
     D139
     D140
@@ -533,7 +530,7 @@ Generating : Drill Drawing
 
 Used DCodes :
     D10
-    D85
+    D88
     D92
     D154
     D155

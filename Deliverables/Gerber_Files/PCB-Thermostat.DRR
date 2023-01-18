@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB-Thermostat.PcbDoc   1/17/2023  10:08:52 PM
+NCDrill File Report For: PCB-Thermostat.PcbDoc   1/19/2023  1:29:05 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top to Bottom
@@ -8,7 +8,7 @@ ASCII SlotHoles File : PCB-Thermostat-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             389       PTH        56.08inch (1424.36mm)
+T1      12mil (0.3mm)                                             Round             391       PTH        56.32inch (1430.45mm)
 T2      16mil (0.4mm)                                             Round             26        PTH        11.66inch (296.12mm)
 T3      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.19mm)
 T4      32mil (0.8mm)                                             Round             16        PTH        4.45inch (112.92mm)
@@ -18,6 +18,6 @@ T7      24mil (0.62mm)                                            Round         
 T8      35mil (0.9mm)                                             Round             2         NPTH       0.09inch (2.30mm)
 T9      98mil (2.5mm)                                             Round             4         NPTH       9.87inch (250.64mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              523
+Totals                                                                              525
 
 Total Processing Time (hh:mm:ss) : 00:00:01
