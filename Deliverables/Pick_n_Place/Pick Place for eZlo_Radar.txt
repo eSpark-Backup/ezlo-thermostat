@@ -1,20 +1,20 @@
 Altium Designer Pick and Place Locations
-C:\Users\XPENDER\Documents\GitHub\ezlo-thermostat\Design Files\Ezlo-Radar-Sensor\Project Outputs for Ezlo-Radar-Sensor\Pick Place for eZlo_Radar.txt
+E:\ezlo-thermostat\Design Files\Ezlo-Radar-Sensor\Project Outputs for Ezlo-Radar-Sensor\Pick Place for eZlo_Radar.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       13/01/23
-Time:       22:32
-Revision:   829528d2275066ee9f0159c03d671d32867c7655
+Date:       18/01/23
+Time:       14:43
+Revision:   ae814273bff761e45339220a632391fc9c8d7abb
 Variant:    No variations
 Units used: mm
 
 Designator Layer       Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+C7         TopLayer    8,5598mm     3,0988mm     90       8,5598mm  3,0988mm  8,5598mm  2,6289mm  
 C12        TopLayer    10,4992mm    -0,4101mm    0        10,4992mm -0,4101mm 10,0293mm -0,4101mm 
-C7         TopLayer    8,2750mm     3,4236mm     90       8,2750mm  3,4236mm  8,2750mm  2,6616mm  
 C17        TopLayer    15,9992mm    0,9652mm     270      15,9992mm 0,9652mm  15,9992mm 1,4351mm  
-C13        TopLayer    11,5338mm    0,9652mm     270      11,5338mm 0,9652mm  11,5338mm 1,4351mm  
+C13        TopLayer    11,5316mm    1,0287mm     270      11,5316mm 1,0287mm  11,5316mm 1,4986mm  
 C10        TopLayer    14,4980mm    8,8084mm     90       14,4980mm 8,8084mm  14,4980mm 8,3385mm  
 C9         TopLayer    15,5140mm    8,8084mm     90       15,5140mm 8,8084mm  15,5140mm 8,3385mm  
 C8         TopLayer    10,3476mm    0,9652mm     270      10,3476mm 0,9652mm  10,3476mm 1,4351mm  

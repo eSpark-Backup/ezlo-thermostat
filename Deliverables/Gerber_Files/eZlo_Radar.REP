@@ -2,27 +2,79 @@
 FileName = eZlo_Radar.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Outline
-      File : eZlo_Radar.GM2
+Generating : GND
+      File : eZlo_Radar.G2
 
-    Adding Layer      : Board Outline
+    Adding Layer      : GND
 
-
-Used DCodes :
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : eZlo_Radar.GBO
-
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D15
-    D36
+    D11
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : eZlo_Radar.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D23
+    D29
+    D33
+    D34
+    D35
+    D37
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : eZlo_Radar.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D29
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : eZlo_Radar.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D29
 *************************************************************
 
 *************************************************************
@@ -37,34 +89,54 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D24
-    D44
+    D23
+    D42
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : eZlo_Radar.GBS
+Generating : Bottom Overlay
+      File : eZlo_Radar.GBO
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Overlay
 
-    Adding Layer      : Bottom Layer
+
+Used DCodes :
+    D10
+    D15
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : eZlo_Radar.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Power
+      File : eZlo_Radar.G1
+
+    Adding Layer      : Power
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D24
-    D31
-    D32
+    D11
     D33
-    D44
+    D38
+    D40
+    D41
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : eZlo_Radar.GTS
-
-    Adding Layer      : Top Solder
+Generating : Top Layer
+      File : eZlo_Radar.GTL
 
     Adding Layer      : Top Layer
 
@@ -72,20 +144,43 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D11
+    D16
     D17
+    D18
     D19
+    D20
     D21
     D22
+    D23
     D24
-    D25
-    D26
-    D27
-    D28
     D29
-    D30
-    D31
     D32
     D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : eZlo_Radar.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -109,28 +204,13 @@ Used DCodes :
     D22
     D23
     D24
-    D25
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : eZlo_Radar.GTO
+Generating : Top Solder
+      File : eZlo_Radar.GTS
 
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : eZlo_Radar.GPT
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -138,22 +218,26 @@ Generating : Top Pad Master
 
 
 Used DCodes :
-    D16
-    D17
     D18
-    D19
     D20
     D21
     D22
     D23
     D24
     D25
+    D26
+    D27
+    D28
+    D29
+    D30
     D31
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : eZlo_Radar.GPB
+Generating : Bottom Solder
+      File : eZlo_Radar.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -161,99 +245,11 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D24
-    D31
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : eZlo_Radar.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D13
-    D24
-    D31
-    D35
-    D36
-    D38
-    D39
-    D42
-    D43
-    D44
-    D45
-    D46
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : eZlo_Radar.G2
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D42
-*************************************************************
-
-*************************************************************
-Generating : Power
-      File : eZlo_Radar.G1
-
-    Adding Layer      : Power
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D38
-    D40
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : eZlo_Radar.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
     D23
-    D24
-    D25
+    D29
+    D30
     D31
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
     D42
-    D43
 *************************************************************
 
 *************************************************************
@@ -266,10 +262,10 @@ Generating : Drill Drawing
 
 
 Used DCodes :
+    D43
+    D44
     D45
     D46
-    D47
-    D48
 *************************************************************
 
 *************************************************************
@@ -282,6 +278,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D47
+    D45
 *************************************************************
 
