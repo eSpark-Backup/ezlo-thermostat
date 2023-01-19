@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=VDD_LF Pin=C7-1
-Removed Pin From Net: NetName=VDD_RF Pin=C12-1
-Removed Pin From Net: NetName=VDD_A Pin=C14-1
-Removed Pin From Net: NetName=VDD_D Pin=C15-1
-Added Pin To Net: NetName=3V3_SENSOR Pin=C7-1
-Added Pin To Net: NetName=1V8_SENSOR Pin=C12-1
-Added Pin To Net: NetName=1V8_SENSOR Pin=C14-1
-Added Pin To Net: NetName=1V8_SENSOR Pin=C15-1
