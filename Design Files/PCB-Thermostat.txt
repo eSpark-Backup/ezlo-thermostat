@@ -1,0 +1,70 @@
+Board Information Report
+Filename     : C:\Users\XPENDER\Documents\GitHub\ezlo-thermostat\Design Files\PCB-Thermostat.PcbDoc
+Date         : 1/19/2023
+Time         : 1:22:07 AM
+Time Elapsed : 00:00:04
+
+General
+    Board Size, 3937.008milsx3543.307mils
+    Components on board, 187
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 498
+    Connections routed, 498
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top, 0, 566, 0, 1299, 0, 48, 25, 0
+    PWR, 0, 0, 0, 128, 0, 0, 4, 0
+    GND, 0, 0, 0, 59, 0, 0, 3, 0
+    Bottom, 7, 22, 0, 483, 0, 4, 13, 0
+    Dimension, 72, 0, 0, 2, 0, 0, 0, 152
+    Board Outline, 4, 0, 0, 21, 0, 0, 0, 0
+    Fabrication, 0, 0, 0, 511, 43, 0, 0, 0
+    Mechanical 10, 0, 0, 0, 0, 2, 0, 0, 0
+    Mechanical 13, 858, 0, 0, 8129, 0, 0, 0, 7
+    Multi-Layer, 0, 108, 417, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 3, 0, 0, 1022, 401, 13, 4, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 220, 73, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 1, 0, 0
+    Drill Drawing, 2, 0, 0, 92, 150, 0, 0, 0
+count : 19
+
+Drill Pairs, Vias
+count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top, 7.008, 4521.586, 50%
+    PWR, 8.306, 5358.681, 60%
+    GND, 8.064, 5202.726, 58%
+    Bottom, 7.802, 5033.747, 56%
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    24.409mils, 0, 0
+    35.433mils, 0, 0
+    98.425mils, 0, 0
+count : 4
+
+Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    11.811mils, 0, 0
+    15.748mils, 0, 0
+    31.496mils, 0, 0
+    32.284mils, 0, 0
+    62.992mils, 0, 0
+count : 6
+
+Plated Slot Size / Length, Pads
+    23.622mil / 55.118mil, 0
+    23.622mil / 66.929mil, 0
+count : 2
