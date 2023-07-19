@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Ezlo-Radar-Sensor-Advance.PrjPcb]
+   Generated File[eZlo_Radar.TXT]
+   Generated File[eZlo_Radar.LDP]
+   Generated File[eZlo_Radar.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:55:53 PM On 7/19/2023
