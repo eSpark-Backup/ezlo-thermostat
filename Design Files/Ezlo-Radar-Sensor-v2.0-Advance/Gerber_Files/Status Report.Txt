@@ -1,12 +1,27 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Ezlo-Radar-Sensor-v2.0-Advance.PrjPcb]
-   Generated File[eZlo_Radar.TXT]
-   Generated File[eZlo_Radar.LDP]
-   Generated File[eZlo_Radar.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Ezlo-Radar-Sensor-v2.0-Advance.PrjPcb]
+   Generated File[eZlo_Radar.GTO]
+   Generated File[eZlo_Radar.GTP]
+   Generated File[eZlo_Radar.GTS]
+   Generated File[eZlo_Radar.GTL]
+   Generated File[eZlo_Radar.G1]
+   Generated File[eZlo_Radar.G2]
+   Generated File[eZlo_Radar.GBL]
+   Generated File[eZlo_Radar.GBS]
+   Generated File[eZlo_Radar.GBP]
+   Generated File[eZlo_Radar.GBO]
+   Generated File[eZlo_Radar.GM2]
+   Generated File[eZlo_Radar.GPT]
+   Generated File[eZlo_Radar.GPB]
+   Generated File[eZlo_Radar.GD1]
+   Generated File[eZlo_Radar.GG1]
+   Generated File[eZlo_Radar.RUL]
+   Generated File[eZlo_Radar.EXTREP]
+   Generated File[eZlo_Radar.REP]
 
 
-Files Generated   : 3
+Files Generated   : 18
 Documents Printed : 0
 
-Finished Output Generation At 4:21:21 PM On 7/20/2023
+Finished Output Generation At 6:58:42 PM On 7/20/2023
