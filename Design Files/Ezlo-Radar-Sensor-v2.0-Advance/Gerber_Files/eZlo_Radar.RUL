@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\XPENDER\Documents\GitHub\ezlo-thermostat\Design Files\Ezlo-Radar-Sensor-v2.0-Advance\eZlo_Radar.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
