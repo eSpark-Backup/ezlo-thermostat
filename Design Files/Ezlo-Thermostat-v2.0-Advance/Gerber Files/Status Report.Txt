@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ezlo-thermostat-advance-v2.0.PrjPcb]
+   Generated File[PCB-Thermostat.GTO]
+   Generated File[PCB-Thermostat.GTP]
+   Generated File[PCB-Thermostat.GTS]
+   Generated File[PCB-Thermostat.GTL]
+   Generated File[PCB-Thermostat.G1]
+   Generated File[PCB-Thermostat.G2]
+   Generated File[PCB-Thermostat.GBL]
+   Generated File[PCB-Thermostat.GBS]
+   Generated File[PCB-Thermostat.GBP]
+   Generated File[PCB-Thermostat.GBO]
+   Generated File[PCB-Thermostat.GM2]
+   Generated File[PCB-Thermostat.GPT]
+   Generated File[PCB-Thermostat.GPB]
+   Generated File[PCB-Thermostat.GD1]
+   Generated File[PCB-Thermostat.GG1]
+   Generated File[PCB-Thermostat.RUL]
+   Generated File[PCB-Thermostat.EXTREP]
+   Generated File[PCB-Thermostat.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 11:25:11 pm On 26/07/2023
